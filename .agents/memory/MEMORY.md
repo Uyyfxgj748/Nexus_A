@@ -1,0 +1,4 @@
+- [Gacha gate architecture](gacha-gate.md) — gacha commands route via index.js separately; gate checks must mirror manejarMensaje exactly.
+- [Trade consent flow](trade-consent.md) — #trade is a 2-step flow; pendingTrades Map in personajes.js; new commands added to index.js comandosPersonajes list.
+- [Mencionados normalization](mencionados-normalization.md) — ctxInfoMsg.participant must strip :N@ suffix and run through resolverJid() to avoid duplicate JID profiles.
+- [Clan approval system](clan-approval.md) — clans default to closed (solicitudes array); clan.abierto===true enables instant join; new exported functions in clanes.js.

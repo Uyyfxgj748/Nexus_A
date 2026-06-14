@@ -1,0 +1,6565 @@
+{
+  "573157682235@s.whatsapp.net": {
+    "nombre": "573157682235",
+    "pushName": "...",
+    "monedas": 1719,
+    "banco": 0,
+    "ultimoDiario": 1781137508406,
+    "ultimoTrabajo": 1781137504054,
+    "inventario": [],
+    "nivel": 12,
+    "experiencia": 165,
+    "mensajes": 1353,
+    "pareja": "573042894652@s.whatsapp.net",
+    "parejaNombre": "Subaru Natsuki",
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "mensajesSemana": 1353,
+    "harem": [],
+    "cooldowns": {
+      "rw": 1781400671338,
+      "claim": 1781361935355,
+      "steal": 1781329577854,
+      "fight": 1781136355013
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "haremGrupo": {
+      "120363426185401970@g.us": [
+        {
+          "nombre": "Index",
+          "serie": "A Certain Magical Index",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "index_librorum_prohibitorum",
+          "tag": "index_librorum_prohibitorum"
+        },
+        {
+          "nombre": "Ai Hoshino",
+          "serie": "Oshi no Ko",
+          "genero": "Femenino",
+          "valor": 1200,
+          "favorito": false,
+          "id": "ai_oshi_no_ko",
+          "tag": "ai_(oshi_no_ko)"
+        },
+        {
+          "nombre": "Kyouka Uzen",
+          "serie": "Chained Soldier",
+          "genero": "femenino",
+          "valor": 600,
+          "favorito": false,
+          "id": "uzen_kyouka",
+          "tag": "uzen_kyouka"
+        },
+        {
+          "nombre": "Silica",
+          "serie": "Sword Art Online",
+          "genero": "Femenino",
+          "valor": 500,
+          "favorito": false,
+          "id": "silica_sao",
+          "tag": "silica_(sao)"
+        },
+        {
+          "nombre": "Zhezhi",
+          "serie": "Wuthering Waves",
+          "genero": "Femenino",
+          "valor": 1500,
+          "favorito": false,
+          "id": "zhezhi_wuthering_waves",
+          "tag": "zhezhi_(wuthering_waves)"
+        },
+        {
+          "nombre": "Akeno",
+          "serie": "Highschool DxD",
+          "genero": "Femenino",
+          "valor": 1100,
+          "favorito": false,
+          "id": "himejima_akeno",
+          "tag": "himejima_akeno"
+        },
+        {
+          "nombre": "Haruka Tenoh",
+          "serie": "Sailor Moon",
+          "genero": "Femenino",
+          "valor": 1100,
+          "favorito": false,
+          "id": "tenou_haruka",
+          "tag": "tenou_haruka"
+        },
+        {
+          "nombre": "Mudrock",
+          "serie": "Arknights",
+          "genero": "Femenino",
+          "valor": 1050,
+          "favorito": false,
+          "id": "mudrock_arknights",
+          "tag": "mudrock_(arknights)"
+        },
+        {
+          "nombre": "Yuji",
+          "serie": "Jujutsu Kaisen",
+          "genero": "Masculino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "itadori_yuji",
+          "tag": "itadori_yuji"
+        },
+        {
+          "nombre": "Rintaro Tsumugi",
+          "id": "tsumugi_rintarou",
+          "serie": "Kaoru Hana wa Rin to Saku",
+          "tag": "tsumugi_rintarou",
+          "valor": 1800
+        },
+        {
+          "nombre": "Hotaru",
+          "serie": "Sailor Moon",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "tomoe_hotaru",
+          "tag": "tomoe_hotaru"
+        },
+        {
+          "nombre": "Premiere",
+          "serie": "Sword Art Online",
+          "genero": "Femenino",
+          "valor": 450,
+          "favorito": false,
+          "id": "Premiere_sword_art_online",
+          "tag": "premiere_(sao)"
+        },
+        {
+          "nombre": "Lucy (Cyberpunk)",
+          "serie": "Cyberpunk: Edgerunners",
+          "genero": "Femenino",
+          "valor": 1200,
+          "favorito": false,
+          "id": "lucy_cyberpunk",
+          "tag": "lucy_(cyberpunk)"
+        },
+        {
+          "nombre": "Yoruichi Shihouin",
+          "serie": "Bleach",
+          "genero": "Femenino",
+          "valor": 1100,
+          "favorito": false,
+          "id": "shihouin_yoruichi",
+          "tag": "shihouin_yoruichi"
+        },
+        {
+          "nombre": "Ch'en",
+          "serie": "Arknights",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "ch_en_arknights",
+          "tag": "ch'en_(arknights)"
+        },
+        {
+          "nombre": "Takina",
+          "serie": "Lycoris Recoil",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "inoue_takina",
+          "tag": "inoue_takina"
+        },
+        {
+          "nombre": "Milim",
+          "serie": "That Time I Got Reincarnated as a Slime",
+          "genero": "Femenino",
+          "valor": 1200,
+          "favorito": false,
+          "id": "nava_milim",
+          "tag": "nava_milim"
+        },
+        {
+          "nombre": "Encore",
+          "serie": "Wuthering Waves",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "encore_wuthering_waves",
+          "tag": "encore_(wuthering_waves)"
+        },
+        {
+          "nombre": "Chisato",
+          "serie": "Lycoris Recoil",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "nishikigi_chisato",
+          "tag": "nishikigi_chisato"
+        },
+        {
+          "nombre": "Wiz",
+          "serie": "Konosuba",
+          "genero": "Femenino",
+          "valor": 700,
+          "favorito": false,
+          "id": "wiz_konosuba",
+          "tag": "wiz_(konosuba)"
+        },
+        {
+          "nombre": "Roxy",
+          "serie": "Mushoku Tensei",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "roxy_migurdia",
+          "tag": "roxy_migurdia"
+        },
+        {
+          "nombre": "Noelle",
+          "serie": "Black Clover",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "noelle_silva",
+          "tag": "noelle_silva"
+        },
+        {
+          "nombre": "Rosa",
+          "serie": "Pokemon",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "mei_pokemon",
+          "tag": "mei_(pokemon)"
+        },
+        {
+          "nombre": "Natsumi",
+          "serie": "Date A Live",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "kyouno_natsumi",
+          "tag": "kyouno_natsumi"
+        },
+        {
+          "nombre": "Sylphiette",
+          "serie": "Mushoku Tensei",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "sylphiette",
+          "tag": "sylphiette"
+        },
+        {
+          "nombre": "Kyoko",
+          "serie": "Danganronpa",
+          "genero": "Femenino",
+          "valor": 1100,
+          "favorito": false,
+          "id": "kirigiri_kyouko",
+          "tag": "kirigiri_kyouko"
+        },
+        {
+          "nombre": "Yor forger",
+          "serie": "Spy x Family",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "yor_forger",
+          "tag": "yor_forger"
+        },
+        {
+          "nombre": "Mafuyu Asahina",
+          "serie": "Project Sekai",
+          "genero": "Femenino",
+          "valor": 1800,
+          "favorito": false,
+          "id": "asahina_mafuyu",
+          "tag": "asahina_mafuyu"
+        },
+        {
+          "nombre": "Yui Hirasawa",
+          "serie": "K-On!",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "hirasawa_yui",
+          "tag": "hirasawa_yui"
+        },
+        {
+          "nombre": "Alice",
+          "serie": "Sword Art Online",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "alice_schuberg",
+          "tag": "alice_schuberg"
+        },
+        {
+          "nombre": "Nora Arento",
+          "serie": "Spice and Wolf",
+          "genero": "Femenino",
+          "valor": 1300,
+          "favorito": false,
+          "id": "nora_arento",
+          "tag": "nora_arento"
+        },
+        {
+          "nombre": "Unicorn",
+          "serie": "Azur Lane",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "unicorn_azur_lane",
+          "tag": "unicorn_(azur_lane)"
+        },
+        {
+          "nombre": "Takopi",
+          "serie": "Takopi's Original Sin",
+          "genero": "Desconocido",
+          "valor": 1800,
+          "favorito": false,
+          "id": "takopi",
+          "tag": "takopi"
+        },
+        {
+          "nombre": "Kotori",
+          "serie": "Date A Live",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "itsuka_kotori",
+          "tag": "itsuka_kotori"
+        },
+        {
+          "nombre": "Vanessa",
+          "serie": "Black Clover",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "vanessa_enoteca",
+          "tag": "vanessa_enoteca"
+        },
+        {
+          "nombre": "Bronya",
+          "serie": "Honkai: Star Rail",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "bronya_star_rail",
+          "tag": "bronya_(star_rail)"
+        },
+        {
+          "nombre": "Morgan",
+          "serie": "Fate",
+          "genero": "Femenino",
+          "valor": 1100,
+          "favorito": false,
+          "id": "morgan_le_fay_fate",
+          "tag": "morgan_le_fay_(fate)"
+        },
+        {
+          "nombre": "Makoto Niijima",
+          "serie": "Persona 5",
+          "genero": "Femenino",
+          "valor": 830,
+          "favorito": false,
+          "id": "niijima_makoto",
+          "tag": "niijima_makoto"
+        },
+        {
+          "nombre": "Tamayo",
+          "serie": "Demon Slayer",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "tamayo_kimetsu",
+          "tag": "tamayo_(kimetsu)"
+        },
+        {
+          "nombre": "Mostima",
+          "serie": "Arknights",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "mostima_arknights",
+          "tag": "mostima_(arknights)"
+        },
+        {
+          "nombre": "Himeno Nonaka",
+          "serie": "Kekkon Yubiwa Monogatari",
+          "genero": "femenino",
+          "valor": 1500,
+          "favorito": false,
+          "id": "nonaka_himeno",
+          "tag": "nonaka_himeno"
+        },
+        {
+          "nombre": "Aya",
+          "serie": "Magical Girl Site",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "asagiri_aya",
+          "tag": "asagiri_aya"
+        },
+        {
+          "nombre": "Zenith Greyrat",
+          "serie": "Mushoku Tensei",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "zenith_greyrat",
+          "tag": "zenith_greyrat"
+        },
+        {
+          "nombre": "Lord Enorme",
+          "serie": "Mahou Shoujo ni Akogarete",
+          "genero": "Femenino",
+          "valor": 1550,
+          "favorito": false,
+          "id": "lord_enorme",
+          "tag": "lord_enorme"
+        },
+        {
+          "nombre": "Hwaryun",
+          "serie": "Tower of God",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "hwaryun_tog",
+          "tag": "hwaryun_(tog)"
+        },
+        {
+          "nombre": "Mari",
+          "serie": "Love Live",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "ohara_mari",
+          "tag": "ohara_mari"
+        },
+        {
+          "nombre": "Ritsuko",
+          "serie": "Neon Genesis Evangelion",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "akagi_ritsuko",
+          "tag": "akagi_ritsuko"
+        },
+        {
+          "nombre": "Silence Suzuka",
+          "serie": "Uma Musume: Pretty Derby",
+          "genero": "Femenino",
+          "valor": 1300,
+          "favorito": false,
+          "id": "silence_suzuka",
+          "tag": "silence_suzuka_(umamusume)"
+        },
+        {
+          "nombre": "Karane Inda",
+          "serie": "The 100 Girlfriends",
+          "genero": "Femenino",
+          "valor": 820,
+          "favorito": false,
+          "id": "inda_karane",
+          "tag": "inda_karane"
+        },
+        {
+          "nombre": "Himawari",
+          "serie": "Boruto",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "himawari_uzumaki",
+          "tag": "himawari_uzumaki"
+        },
+        {
+          "nombre": "Evil Eye",
+          "serie": "Dandadan",
+          "genero": "Masculino",
+          "valor": 1700,
+          "favorito": false,
+          "id": "evil_eye",
+          "tag": "evil_eye"
+        },
+        {
+          "nombre": "Shuna",
+          "serie": "That Time I Got Reincarnated as a Slime",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "shuna_tensura",
+          "tag": "shuna_(tensura)"
+        },
+        {
+          "nombre": "Nanashi Mumei",
+          "serie": "Hololive",
+          "genero": "Femenino",
+          "valor": 1750,
+          "favorito": false,
+          "id": "nanashi_mumei",
+          "tag": "nanashi_mumei"
+        },
+        {
+          "nombre": "Mikoto Yamato",
+          "serie": "DanMachi",
+          "genero": "Femenino",
+          "valor": 720,
+          "favorito": false,
+          "id": "mikoto_yamato",
+          "tag": "mikoto_yamato"
+        },
+        {
+          "nombre": "Choso",
+          "serie": "Jujutsu Kaisen",
+          "genero": "Masculino",
+          "valor": 950,
+          "favorito": false,
+          "id": "kamo_choso",
+          "tag": "choso_(jujutsu_kaisen)"
+        },
+        {
+          "nombre": "himiko toga",
+          "serie": "My Hero Academia",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "himiko_toga",
+          "tag": "himiko_toga"
+        },
+        {
+          "nombre": "Minako",
+          "serie": "Sailor Moon",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "aino_minako",
+          "tag": "aino_minako"
+        },
+        {
+          "nombre": "Golden Darkness",
+          "serie": "To Love-Ru",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "golden_darkness",
+          "tag": "golden_darkness"
+        },
+        {
+          "nombre": "Yanagi Uzaki",
+          "serie": "Uzaki-chan wa Asobitai!",
+          "genero": "Femenino",
+          "valor": 1500,
+          "favorito": false,
+          "id": "yanagi_uzaki",
+          "tag": "uzaki_yanagi"
+        },
+        {
+          "nombre": "Rika Hoshizaki",
+          "serie": "Kanojo mo Kanojo",
+          "genero": "Femenino",
+          "valor": 1750,
+          "favorito": false,
+          "id": "rika_hoshizaki",
+          "tag": "hoshizaki_rika_(kanojo_mo_kanojo)"
+        },
+        {
+          "nombre": "Grass Wonder",
+          "serie": "Uma Musume: Pretty Derby",
+          "genero": "Femenino",
+          "valor": 1200,
+          "favorito": false,
+          "id": "grass_wonder",
+          "tag": "grass_wonder_(umamusume)"
+        },
+        {
+          "nombre": "Kokoro",
+          "serie": "Darling in the FranXX",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "kokoro_darling_in_the_franxx",
+          "tag": "kokoro_(darling_in_the_franxx)"
+        },
+        {
+          "nombre": "Nana (To Love-Ru)",
+          "serie": "To Love-Ru",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "deviluke_nana",
+          "tag": "deviluke_nana"
+        },
+        {
+          "nombre": "Levy",
+          "serie": "Fairy Tail",
+          "genero": "Femenino",
+          "valor": 750,
+          "favorito": false,
+          "id": "levy_mcgarden",
+          "tag": "levy_mcgarden"
+        },
+        {
+          "nombre": "Mem-cho",
+          "serie": "Oshi no Ko",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "mem_cho_oshi_no_ko",
+          "tag": "mem_cho_(oshi_no_ko)"
+        },
+        {
+          "nombre": "Erina Nakiri",
+          "serie": "Shokugeki no Soma",
+          "genero": "Femenino",
+          "valor": 1200,
+          "favorito": false,
+          "id": "nakiri_erina",
+          "tag": "nakiri_erina"
+        },
+        {
+          "nombre": "Machi",
+          "serie": "Hunter x Hunter",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "machi_komacine",
+          "tag": "machi_komacine"
+        },
+        {
+          "nombre": "Ryoko",
+          "serie": "To Love-Ru",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "mikado_ryouko",
+          "tag": "mikado_ryouko"
+        }
+      ],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "ventasGrupo": {},
+    "lastRoll": "Otto",
+    "lastRollTime": 1781400671338,
+    "lastRollGroupId": "120363426185401970@g.us",
+    "contadores": {
+      "robosExitosos": 3,
+      "combates": 32,
+      "derrotas": 30,
+      "victorias": 2,
+      "crimenesOK": 1,
+      "trabajos": 1,
+      "diarios": 1,
+      "misionesOK": 1,
+      "victoriasBJ": 4,
+      "inversiones": 1,
+      "ganadosAhorcado": 1,
+      "pescados": 1,
+      "ganadosTrivia": 2
+    },
+    "logros": [
+      "primer_saldo",
+      "rico",
+      "millonario",
+      "multimillonario",
+      "primer_robo",
+      "casado",
+      "comunicador",
+      "aprendiz",
+      "primer_logro",
+      "primer_combate",
+      "charlatan",
+      "nocturno",
+      "primer_crimen",
+      "primer_trabajo",
+      "inversor"
+    ],
+    "stats": {
+      "fuerza": 12,
+      "defensa": 12,
+      "suerte": 11,
+      "xp": 68,
+      "nivel": 2
+    },
+    "itemsActivos": {},
+    "_combateLvlUp": 2,
+    "racha": 1,
+    "afk": {
+      "activo": false,
+      "mensaje": "subiendo aún más personajes",
+      "desde": 1781066647718
+    },
+    "misiones": {
+      "dia": 20615,
+      "lista": [
+        "crime3",
+        "work3",
+        "daily1"
+      ],
+      "progreso": {},
+      "reclamadas": [
+        "daily1"
+      ],
+      "snapshot": {
+        "trabajos": 0,
+        "robosExitosos": 2,
+        "apuestasGanadas": 0,
+        "ganadosTrivia": 0,
+        "ganadosMath": 0,
+        "victorias": 2,
+        "entrenamientos": 0,
+        "crimenesOK": 0,
+        "diarios": 0,
+        "victoriasBJ": 0,
+        "slotsJugados": 0
+      }
+    },
+    "ultimoCrimen": 1781137496290,
+    "dailyStreak": 1,
+    "inversion": {
+      "cantidad": 500000,
+      "fecha": 1781201036081
+    },
+    "reputacion": 3,
+    "misionesSemanales": {
+      "semana": 2945,
+      "lista": [
+        "sw_daily5",
+        "sw_rob8",
+        "sw_coinflip5"
+      ],
+      "reclamadas": [],
+      "snapshot": {
+        "trabajos": 1,
+        "robosExitosos": 3,
+        "apuestasGanadas": 0,
+        "victorias": 2,
+        "crimenesOK": 1,
+        "ganadosTrivia": 0,
+        "diarios": 1,
+        "entrenamientos": 0,
+        "victoriasBJ": 2,
+        "slotsJugados": 0,
+        "coinflipGanados": 0,
+        "repRecibida": 0
+      }
+    },
+    "rachaMax": 1,
+    "ultimaMazmorra": 1781393750881,
+    "ultimoFish": 1781394312259,
+    "prestamo": {
+      "cantidad": 300000,
+      "deuda": 450000,
+      "fecha": 1781394400339
+    }
+  },
+  "573237069673@s.whatsapp.net": {
+    "nombre": "573237069673",
+    "pushName": "𝙈𝙚𝙜𝙪𝙢𝙞𝙣",
+    "monedas": 999999999,
+    "banco": 999999999,
+    "ultimoDiario": 1781218690236,
+    "ultimoTrabajo": 1781223863118,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 35,
+    "mensajes": 7,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "mensajesSemana": 7,
+    "harem": [],
+    "stats": {
+      "fuerza": 12,
+      "defensa": 12,
+      "suerte": 11,
+      "xp": 196,
+      "nivel": 2
+    },
+    "itemsActivos": {},
+    "contadores": {
+      "combates": 44,
+      "derrotas": 41,
+      "victorias": 3,
+      "diarios": 1,
+      "trabajos": 2
+    },
+    "_combateLvlUp": 2,
+    "cooldowns": {
+      "rw": 1781298151076
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {},
+    "lastRoll": "Tiese",
+    "lastRollTime": 1781298151076,
+    "lastRollGroupId": "120363409460222487@g.us",
+    "dailyStreak": 1,
+    "logros": [
+      "primer_saldo",
+      "rico",
+      "millonario",
+      "multimillonario",
+      "banquero",
+      "primer_combate",
+      "primer_logro",
+      "primer_trabajo",
+      "nocturno"
+    ],
+    "ultimoSlut": 1781223895570
+  },
+  "573042894652@s.whatsapp.net": {
+    "monedas": 1989028,
+    "harem": [],
+    "cooldowns": {
+      "rw": 1781418815270,
+      "steal": 1781266626636,
+      "train": 1781395668516,
+      "fight": 1781417552890,
+      "claim": 1781363649638
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {
+      "Rem": 1781401176936
+    },
+    "haremGrupo": {
+      "120363426185401970@g.us": [
+        {
+          "nombre": "Leone",
+          "serie": "Akame ga Kill!",
+          "genero": "femenino",
+          "valor": 600,
+          "favorito": false,
+          "id": "leone",
+          "tag": "leone"
+        },
+        {
+          "nombre": "Lisbeth",
+          "serie": "Sword Art Online",
+          "genero": "Femenino",
+          "valor": 480,
+          "favorito": false,
+          "id": "lisbeth_sao",
+          "tag": "lisbeth_(sao)"
+        },
+        {
+          "nombre": "Suguha",
+          "serie": "Sword Art Online",
+          "genero": "Femenino",
+          "valor": 520,
+          "favorito": false,
+          "id": "kirigaya_suguha",
+          "tag": "kirigaya_suguha"
+        },
+        {
+          "nombre": "Zero Two",
+          "serie": "Darling in the FranXX",
+          "genero": "Femenino",
+          "valor": 1400,
+          "favorito": false,
+          "id": "zero_two",
+          "tag": "zero_two"
+        },
+        {
+          "nombre": "Keqing",
+          "serie": "Genshin Impact",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "keqing_genshin_impact",
+          "tag": "keqing_(genshin_impact)"
+        },
+        {
+          "nombre": "androssi zahard",
+          "id": "androssi_zahard",
+          "serie": "Tower of God",
+          "tag": "androssi_zahard",
+          "valor": 1000
+        },
+        {
+          "nombre": "Witch",
+          "serie": "Goblin Slayer",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "witch_goblin_slayer",
+          "tag": "witch_(goblin_slayer)"
+        },
+        {
+          "nombre": "Naon Yuno",
+          "id": "yuno_naon",
+          "serie": "Chained Soldier",
+          "tag": "yuno_naon",
+          "valor": 750
+        },
+        {
+          "nombre": "Hu Tao",
+          "serie": "Genshin Impact",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "hu_tao_genshin_impact",
+          "tag": "hu_tao_(genshin_impact)"
+        },
+        {
+          "nombre": "Crusch",
+          "serie": "Re:Zero",
+          "genero": "Femenino",
+          "valor": 580,
+          "favorito": false,
+          "id": "crusch_karsten",
+          "tag": "crusch_karsten"
+        },
+        {
+          "nombre": "Senkou Nono",
+          "serie": "Chained Soldier",
+          "genero": "femenino",
+          "valor": 730,
+          "favorito": false,
+          "id": "nono_senkou",
+          "tag": "nono_senkou"
+        },
+        {
+          "nombre": "Hanayo",
+          "serie": "Love Live",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "koizumi_hanayo",
+          "tag": "koizumi_hanayo"
+        },
+        {
+          "nombre": "Shushu Suruga",
+          "serie": "Chained Soldier",
+          "genero": "femenino",
+          "valor": 600,
+          "favorito": false,
+          "id": "suruga_shushu",
+          "tag": "suruga_shushu"
+        },
+        {
+          "nombre": "Burnice White",
+          "serie": "Zenless Zone Zero",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "burnice_white_zzz",
+          "tag": "burnice_white_(zzz)"
+        },
+        {
+          "nombre": "Lupusregina",
+          "serie": "Overlord",
+          "genero": "Femenino",
+          "valor": 750,
+          "favorito": false,
+          "id": "lupusregina_beta",
+          "tag": "lupusregina_beta"
+        },
+        {
+          "nombre": "Miwa",
+          "serie": "Jujutsu Kaisen",
+          "genero": "Femenino",
+          "valor": 600,
+          "favorito": false,
+          "id": "miwa_kasumi",
+          "tag": "miwa_kasumi"
+        },
+        {
+          "nombre": "Garfiel",
+          "serie": "Re:Zero",
+          "genero": "Masculino",
+          "valor": 350,
+          "favorito": false,
+          "id": "garfiel_tinsel",
+          "tag": "garfiel_tinsel"
+        },
+        {
+          "nombre": "Nakime",
+          "serie": "Demon Slayer",
+          "genero": "Femenino",
+          "valor": 650,
+          "favorito": false,
+          "id": "nakime_kimetsu_no_yaiba",
+          "tag": "nakime_(kimetsu_no_yaiba)"
+        },
+        {
+          "nombre": "kanase teto",
+          "serie": "Vocaloid",
+          "genero": "femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "kasane_teto",
+          "tag": "kasane_teto"
+        },
+        {
+          "nombre": "Entoma",
+          "serie": "Overlord",
+          "genero": "Femenino",
+          "valor": 700,
+          "favorito": false,
+          "id": "entoma_vasilissa_zeta",
+          "tag": "entoma_vasilissa_zeta"
+        },
+        {
+          "nombre": "Ino",
+          "serie": "Naruto",
+          "genero": "Femenino",
+          "valor": 600,
+          "favorito": false,
+          "id": "yamanaka_ino",
+          "tag": "yamanaka_ino"
+        },
+        {
+          "nombre": "Vivi",
+          "serie": "One Piece",
+          "genero": "Femenino",
+          "valor": 750,
+          "favorito": false,
+          "id": "nefertari_vivi",
+          "tag": "nefertari_vivi"
+        },
+        {
+          "nombre": "Subaru",
+          "serie": "Re:Zero",
+          "genero": "Masculino",
+          "valor": 400,
+          "favorito": false,
+          "id": "natsuki_subaru",
+          "tag": "natsuki_subaru"
+        },
+        {
+          "nombre": "Aoba Wakura",
+          "serie": "Chained Soldier",
+          "genero": "femenino",
+          "valor": 560,
+          "favorito": false,
+          "id": "wakura_aoba",
+          "tag": "wakura_aoba"
+        },
+        {
+          "nombre": "Ikuno",
+          "serie": "Darling in the FranXX",
+          "genero": "Femenino",
+          "valor": 750,
+          "favorito": false,
+          "id": "ikuno_darling_in_the_franxx",
+          "tag": "ikuno_(darling_in_the_franxx)"
+        },
+        {
+          "nombre": "Ayane Shirakawa",
+          "serie": "Overflow",
+          "genero": "Femenino",
+          "valor": 1200,
+          "favorito": false,
+          "id": "ayane_shirakawa_overflow",
+          "tag": "shirakawa_ayane_(overflow)"
+        },
+        {
+          "nombre": "Texas",
+          "serie": "Arknights",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "texas_arknights",
+          "tag": "texas_(arknights)"
+        },
+        {
+          "nombre": "Akali",
+          "serie": "League of Legends",
+          "genero": "Femenino",
+          "valor": 1700,
+          "favorito": false,
+          "id": "akali_league_of_legends",
+          "tag": "akali_(league_of_legends)"
+        },
+        {
+          "nombre": "Juvia",
+          "serie": "Fairy Tail",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "juvia_lockser",
+          "tag": "juvia_lockser"
+        },
+        {
+          "nombre": "Ibara",
+          "serie": "My Hero Academia",
+          "genero": "Femenino",
+          "valor": 600,
+          "favorito": false,
+          "id": "shiozaki_ibara",
+          "tag": "shiozaki_ibara"
+        },
+        {
+          "nombre": "Zhu Yuan",
+          "serie": "Zenless Zone Zero",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "zhu_yuan_zzz",
+          "tag": "zhu_yuan_(zzz)"
+        },
+        {
+          "nombre": "Eris (DanMachi)",
+          "serie": "DanMachi",
+          "genero": "Femenino",
+          "valor": 1100,
+          "favorito": false,
+          "id": "freya_danmachi",
+          "tag": "freya_(danmachi)"
+        },
+        {
+          "nombre": "Meili",
+          "serie": "Re:Zero",
+          "genero": "Femenino",
+          "valor": 450,
+          "favorito": false,
+          "id": "meili_portroute",
+          "tag": "meili_portroute"
+        },
+        {
+          "nombre": "Kikoru Shinomiya",
+          "serie": "Kaiju No. 8",
+          "genero": "Femenino",
+          "valor": 1050,
+          "favorito": false,
+          "id": "shinomiya_kikoru",
+          "tag": "shinomiya_kikoru"
+        },
+        {
+          "nombre": "Meme Kakure",
+          "serie": "The 100 Girlfriends",
+          "genero": "Femenino",
+          "valor": 720,
+          "favorito": false,
+          "id": "kakure_meme",
+          "tag": "kakure_meme"
+        },
+        {
+          "nombre": "Nijika",
+          "serie": "Bocchi the Rock!",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "ijichi_nijika",
+          "tag": "ijichi_nijika"
+        },
+        {
+          "nombre": "Erza",
+          "serie": "Fairy Tail",
+          "genero": "Femenino",
+          "valor": 1200,
+          "favorito": false,
+          "id": "erza_scarlet",
+          "tag": "erza_scarlet"
+        },
+        {
+          "nombre": "Leafa",
+          "serie": "Sword Art Online",
+          "genero": "Femenino",
+          "valor": 480,
+          "favorito": false,
+          "id": "leafa_sao",
+          "tag": "leafa_(sao)"
+        },
+        {
+          "nombre": "Akitsu",
+          "serie": "Sekirei",
+          "genero": "Femenino",
+          "valor": 1500,
+          "favorito": false,
+          "id": "akitsu_sekirei",
+          "tag": "akitsu_(sekirei)"
+        },
+        {
+          "nombre": "Daiwa Scarlet",
+          "serie": "Uma Musume: Pretty Derby",
+          "genero": "Femenino",
+          "valor": 1300,
+          "favorito": false,
+          "id": "daiwa_scarlet",
+          "tag": "daiwa_scarlet_(umamusume)"
+        },
+        {
+          "nombre": "Misaki Nagatoro",
+          "serie": "Ijiranaide, Nagatoro-san",
+          "genero": "Femenino",
+          "valor": 1400,
+          "favorito": false,
+          "id": "misaki_nagatoro",
+          "tag": "nagatoro_misaki"
+        },
+        {
+          "nombre": "Scathach",
+          "serie": "Fate",
+          "genero": "Femenino",
+          "valor": 1300,
+          "favorito": false,
+          "id": "scathach_fate",
+          "tag": "scathach_(fate)"
+        },
+        {
+          "nombre": "Xilonen",
+          "serie": "Genshin Impact",
+          "genero": "Femenino",
+          "valor": 1100,
+          "favorito": false,
+          "id": "xilonen_genshin",
+          "tag": "xilonen_(genshin)"
+        },
+        {
+          "nombre": "Yoru",
+          "serie": "Chainsaw Man",
+          "genero": "Femenino",
+          "valor": 1100,
+          "favorito": false,
+          "id": "yoru_chainsaw_man",
+          "tag": "yoru_(chainsaw_man)"
+        },
+        {
+          "nombre": "Tiny Mita",
+          "serie": "MiSide",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "miside_tiny_mita",
+          "tag": "tiny_mita_(miside)"
+        },
+        {
+          "nombre": "Kusuri Yakuzen",
+          "serie": "The 100 Girlfriends",
+          "genero": "Femenino",
+          "valor": 770,
+          "favorito": false,
+          "id": "yakuzen_kusuri",
+          "tag": "yakuzen_kusuri"
+        },
+        {
+          "nombre": "Mei Mei",
+          "serie": "Jujutsu Kaisen",
+          "genero": "Femenino",
+          "valor": 700,
+          "favorito": false,
+          "id": "mei_mei_jujutsu",
+          "tag": "mei_mei_(jujutsu)"
+        },
+        {
+          "nombre": "Itsuki (Kakegurui)",
+          "serie": "Kakegurui",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "sumeragi_itsuki",
+          "tag": "sumeragi_itsuki"
+        },
+        {
+          "nombre": "Clorinde",
+          "serie": "Genshin Impact",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "clorinde_genshin_impact",
+          "tag": "clorinde_(genshin_impact)"
+        },
+        {
+          "nombre": "Bulma",
+          "serie": "Dragon Ball",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "bulma",
+          "tag": "bulma"
+        },
+        {
+          "nombre": "Reiko Kashima",
+          "serie": "Dandadan",
+          "genero": "Femenino",
+          "valor": 1800,
+          "favorito": false,
+          "id": "reiko_kashima",
+          "tag": "reiko_kashima"
+        },
+        {
+          "nombre": "Taiki Shuttle",
+          "serie": "Uma Musume: Pretty Derby",
+          "genero": "Femenino",
+          "valor": 1200,
+          "favorito": false,
+          "id": "taiki_shuttle",
+          "tag": "taiki_shuttle_(umamusume)"
+        },
+        {
+          "nombre": "Chizuru",
+          "serie": "Rent a Girlfriend",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "mizuhara_chizuru",
+          "tag": "mizuhara_chizuru"
+        },
+        {
+          "nombre": "Nayuta",
+          "serie": "Chainsaw Man",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "nayuta_chainsaw_man",
+          "tag": "nayuta_(chainsaw_man)"
+        },
+        {
+          "nombre": "Haruna",
+          "serie": "To Love-Ru",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "sairenji_haruna",
+          "tag": "sairenji_haruna"
+        },
+        {
+          "nombre": "Gyokuyou",
+          "serie": "The Apothecary Diaries",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "gyokuyou_apothecary",
+          "tag": "gyokuyou_(apothecary_diaries)"
+        },
+        {
+          "nombre": "Orbie",
+          "serie": "MOTORSLICE",
+          "genero": "Desconocido",
+          "valor": 600,
+          "favorito": false,
+          "id": "orbie_motorslice",
+          "tag": "orbie"
+        },
+        {
+          "nombre": "Albedo",
+          "serie": "Overlord",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "albedo_overlord",
+          "tag": "albedo_(overlord)"
+        },
+        {
+          "nombre": "Pursena Adoldia",
+          "serie": "Mushoku Tensei",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "pursena_adoldia",
+          "tag": "pursena_adoldia"
+        },
+        {
+          "nombre": "Dorothy",
+          "serie": "Black Clover",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "dorothy_unsworth",
+          "tag": "dorothy_unsworth"
+        },
+        {
+          "nombre": "Tenkawa Kaoruko",
+          "serie": "Mahou Shoujo ni Akogarete",
+          "genero": "Femenino",
+          "valor": 1650,
+          "favorito": false,
+          "id": "tenkawa_kaoruko",
+          "tag": "tenkawa_kaoruko"
+        },
+        {
+          "nombre": "Sarada",
+          "serie": "Boruto",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "uchiha_sarada",
+          "tag": "uchiha_sarada"
+        },
+        {
+          "nombre": "Marcille",
+          "serie": "Dungeon Meshi",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "marcille_donato",
+          "tag": "marcille_donato"
+        },
+        {
+          "nombre": "Lux",
+          "serie": "League of Legends",
+          "genero": "Femenino",
+          "valor": 1500,
+          "favorito": false,
+          "id": "lux_league_of_legends",
+          "tag": "lux_(league_of_legends)"
+        },
+        {
+          "nombre": "Shiro",
+          "serie": "No Game No Life",
+          "genero": "Femenino",
+          "valor": 1100,
+          "favorito": false,
+          "id": "shiro_no_game_no_life",
+          "tag": "shiro_(no_game_no_life)"
+        },
+        {
+          "nombre": "Marisa Kirisame",
+          "serie": "Touhou",
+          "genero": "Femenino",
+          "valor": 820,
+          "favorito": false,
+          "id": "kirisame_marisa",
+          "tag": "kirisame_marisa"
+        },
+        {
+          "nombre": "Nana (Elfen Lied)",
+          "serie": "Elfen Lied",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "nana_elfen_lied",
+          "tag": "nana_(elfen_lied)"
+        },
+        {
+          "nombre": "Laufen",
+          "serie": "Sousou no Frieren",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "laufen_frieren",
+          "tag": "laufen_(frieren)"
+        },
+        {
+          "nombre": "High Elf Archer",
+          "serie": "Goblin Slayer",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "high_elf_archer_goblin_slayer",
+          "tag": "high_elf_archer_(goblin_slayer)"
+        },
+        {
+          "nombre": "Helm",
+          "serie": "Nikke",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "helm_nikke",
+          "tag": "helm_(nikke)"
+        },
+        {
+          "nombre": "Kizuna Akari",
+          "serie": "Vocaloid",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "kizuna_akari",
+          "tag": "kizuna_akari"
+        },
+        {
+          "nombre": "Sakura Haruno",
+          "serie": "Naruto",
+          "genero": "Femenino",
+          "valor": 700,
+          "favorito": false,
+          "id": "haruno_sakura",
+          "tag": "haruno_sakura"
+        },
+        {
+          "nombre": "Ceres Fauna",
+          "serie": "Hololive",
+          "genero": "Femenino",
+          "valor": 1750,
+          "favorito": false,
+          "id": "ceres_fauna",
+          "tag": "ceres_fauna"
+        },
+        {
+          "nombre": "Verina",
+          "serie": "Wuthering Waves",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "verina_wuthering_waves",
+          "tag": "verina_(wuthering_waves)"
+        },
+        {
+          "nombre": "Honoka",
+          "serie": "Love Live",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "kousaka_honoka",
+          "tag": "kousaka_honoka"
+        },
+        {
+          "nombre": "Sanemi",
+          "serie": "Demon Slayer",
+          "genero": "Masculino",
+          "valor": 900,
+          "favorito": false,
+          "id": "shinazugawa_sanemi",
+          "tag": "shinazugawa_sanemi"
+        },
+        {
+          "nombre": "Nero",
+          "serie": "Fate",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "nero_claudius_fate",
+          "tag": "nero_claudius_(fate)"
+        },
+        {
+          "nombre": "Beatrice",
+          "serie": "Re:Zero",
+          "genero": "Femenino",
+          "valor": 750,
+          "favorito": false,
+          "id": "beatrice_re_zero",
+          "tag": "beatrice_(re_zero)"
+        }
+      ],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "ventasGrupo": {
+      "120363426185401970@g.us": []
+    },
+    "banco": 0,
+    "ultimoTrabajo": 1781204981426,
+    "mensajes": 4329,
+    "pareja": "573157682235@s.whatsapp.net",
+    "parejaNombre": "...",
+    "pushName": "Subaru Natsuki",
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": "Soy fiel a nexus 🗣️🔥",
+    "advertencias": 0,
+    "experiencia": 3247,
+    "nivel": 55,
+    "mensajesSemana": 4329,
+    "logros": [
+      "primer_saldo",
+      "rico",
+      "millonario",
+      "multimillonario",
+      "casado",
+      "aprendiz",
+      "veterano_nivel",
+      "experto",
+      "maestro_nivel",
+      "primer_logro",
+      "primer_trabajo",
+      "apostador",
+      "primer_combate",
+      "comunicador",
+      "primer_robo",
+      "campeon",
+      "ruleta_master",
+      "charlatan",
+      "sabio",
+      "leyenda",
+      "dueño",
+      "fundador",
+      "banquero",
+      "nocturno",
+      "primer_crimen",
+      "gladiador",
+      "matematico"
+    ],
+    "contadores": {
+      "trabajos": 12,
+      "apuestasGanadas": 23,
+      "coinflipGanados": 4,
+      "entrenamientos": 12,
+      "combates": 73,
+      "derrotas": 12,
+      "diarios": 4,
+      "victorias": 61,
+      "robosExitosos": 8,
+      "slotsJugados": 2,
+      "ruletasGanadas": 19,
+      "misionesSemanalesOK": 3,
+      "misionesOK": 6,
+      "ganadosTrivia": 11,
+      "minados": 4,
+      "aventurasOK": 4,
+      "pescados": 4,
+      "cazados": 4,
+      "mazmorrasOK": 4,
+      "clanFundado": true,
+      "crimenesOK": 1,
+      "ganadosMath": 10,
+      "victoriasBJ": 1
+    },
+    "lastRoll": "Connie",
+    "lastRollTime": 1781418815270,
+    "lastRollGroupId": "120363426185401970@g.us",
+    "misiones": {
+      "dia": 20616,
+      "lista": [
+        "rob2",
+        "train3",
+        "slots2"
+      ],
+      "progreso": {},
+      "reclamadas": [],
+      "snapshot": {
+        "trabajos": 12,
+        "robosExitosos": 8,
+        "apuestasGanadas": 23,
+        "ganadosTrivia": 11,
+        "ganadosMath": 10,
+        "victorias": 52,
+        "entrenamientos": 9,
+        "crimenesOK": 1,
+        "diarios": 3,
+        "victoriasBJ": 0,
+        "slotsJugados": 2
+      }
+    },
+    "stats": {
+      "fuerza": 30,
+      "defensa": 30,
+      "suerte": 20,
+      "xp": 168,
+      "nivel": 11
+    },
+    "itemsActivos": {
+      "lobo_guardian": 1781221120072
+    },
+    "inventario": {
+      "lobo_guardian": 0
+    },
+    "ultimoDiario": 1781329533350,
+    "dailyStreak": 4,
+    "_combateLvlUp": 11,
+    "misionesSemanales": {
+      "semana": 2945,
+      "lista": [
+        "sw_fight10",
+        "sw_daily5",
+        "sw_rep5"
+      ],
+      "reclamadas": [],
+      "snapshot": {
+        "trabajos": 9,
+        "robosExitosos": 5,
+        "apuestasGanadas": 20,
+        "victorias": 42,
+        "crimenesOK": 0,
+        "ganadosTrivia": 11,
+        "diarios": 2,
+        "entrenamientos": 7,
+        "victoriasBJ": 0,
+        "slotsJugados": 2,
+        "coinflipGanados": 4,
+        "repRecibida": 0
+      }
+    },
+    "racha": 4,
+    "rachaMax": 8,
+    "ultimoCrimen": 1781141277018,
+    "ultimoSlut": 1781141280693,
+    "ultimoMinar": 1781141282810,
+    "ultimoAdventure": 1781141287599,
+    "ultimoFish": 1781141302105,
+    "ultimoCazar": 1781141302315,
+    "ultimaMazmorra": 1781327477034,
+    "ultimoAdoptar": 1781046296990,
+    "mascota": {
+      "nombre": "Charmeleon",
+      "especie": "Charmeleon",
+      "especiePokeId": 5,
+      "tipos": [
+        "fire"
+      ],
+      "rareza": "Épico",
+      "rarezaColor": "🟪",
+      "emoji": "⚡",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+      "nivel": 1,
+      "exp": 0,
+      "felicidad": 100,
+      "hambre": 100,
+      "ultimoAlimento": 1781046296990,
+      "ultimoJuego": 1781046296990
+    },
+    "clanId": "clan_gojo",
+    "afk": {
+      "activo": false,
+      "mensaje": "arreglando el pinterest q se me borro el axios",
+      "desde": 1781063043498
+    },
+    "reputacion": 7,
+    "repDado": {
+      "51993017848@s.whatsapp.net": 1781218981351,
+      "5219971043023@s.whatsapp.net": 1781218985603,
+      "51974261945@s.whatsapp.net": 1781219000823,
+      "5219971210742@s.whatsapp.net": 1781219091009
+    }
+  },
+  "573223638305@s.whatsapp.net": {
+    "nombre": "573223638305",
+    "pushName": "Mazapán",
+    "monedas": 1832,
+    "banco": 0,
+    "ultimoDiario": 1781114174341,
+    "ultimoTrabajo": 1781020499303,
+    "inventario": [],
+    "nivel": 2,
+    "experiencia": 160,
+    "mensajes": 52,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "mensajesSemana": 52,
+    "stats": {
+      "fuerza": 10,
+      "defensa": 10,
+      "suerte": 10,
+      "xp": 0,
+      "nivel": 1
+    },
+    "itemsActivos": {},
+    "contadores": {
+      "combates": 2,
+      "derrotas": 2,
+      "trabajos": 1,
+      "diarios": 1
+    },
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "harem": [],
+    "cooldowns": {
+      "rw": 1781324119024
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {},
+    "lastRoll": "Akihiko Asai",
+    "lastRollTime": 1781324119024,
+    "lastRollGroupId": "120363426185401970@g.us",
+    "logros": [
+      "primer_saldo",
+      "primer_trabajo",
+      "primer_combate",
+      "primer_logro"
+    ],
+    "dailyStreak": 1
+  },
+  "5213318752656@s.whatsapp.net": {
+    "nombre": "5213318752656",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "stats": {
+      "fuerza": 10,
+      "defensa": 10,
+      "suerte": 10,
+      "xp": 0,
+      "nivel": 1
+    },
+    "itemsActivos": {},
+    "contadores": {
+      "combates": 1,
+      "derrotas": 1
+    }
+  },
+  "5492974435023@s.whatsapp.net": {
+    "nombre": "5492974435023",
+    "pushName": "Uri",
+    "monedas": 790,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": 1781209589086,
+    "inventario": [],
+    "nivel": 2,
+    "experiencia": 45,
+    "mensajes": 29,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "mensajesSemana": 29,
+    "ultimoMinar": 1781209575394,
+    "contadores": {
+      "minados": 1,
+      "pescados": 1,
+      "cazados": 1,
+      "trabajos": 1
+    },
+    "logros": [
+      "primer_saldo",
+      "primer_logro",
+      "primer_trabajo"
+    ],
+    "ultimoFish": 1781209577646,
+    "ultimoCazar": 1781209580574,
+    "ultimaMazmorra": 1781209600261
+  },
+  "573242239047@s.whatsapp.net": {
+    "nombre": "27784898465966",
+    "pushName": "Beatrice",
+    "monedas": 436187,
+    "banco": 0,
+    "ultimoDiario": 1781126072509,
+    "ultimoTrabajo": null,
+    "inventario": {
+      "lobo_guardian": 0
+    },
+    "nivel": 18,
+    "experiencia": 510,
+    "mensajes": 3162,
+    "pareja": "36271669956849@lid",
+    "parejaNombre": "♤☽༺ ꪑﺃ᥅ꪖﺃ ꪖ᥊ ༻☾♡",
+    "cumpleanos": "23/08/2008",
+    "genero": "hombre",
+    "descripcion": "Rem",
+    "advertencias": 0,
+    "mensajesSemana": 3162,
+    "harem": [],
+    "cooldowns": {
+      "rw": 1781324168713,
+      "claim": 1781288769487,
+      "fight": 1781139206294,
+      "train": 1781050127925,
+      "steal": 1781097723647
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "haremGrupo": {
+      "120363426185401970@g.us": [
+        {
+          "nombre": "Aoi",
+          "serie": "Demon Slayer",
+          "genero": "Femenino",
+          "valor": 500,
+          "favorito": false,
+          "id": "kanzaki_aoi_kimetsu_no_yaiba",
+          "tag": "kanzaki_aoi_(kimetsu_no_yaiba)"
+        },
+        {
+          "nombre": "Noir",
+          "serie": "Nikke",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "noir_nikke",
+          "tag": "noir_(nikke)"
+        },
+        {
+          "nombre": "Yuuki",
+          "serie": "Sword Art Online",
+          "genero": "Femenino",
+          "valor": 750,
+          "favorito": false,
+          "id": "yuuki_sao",
+          "tag": "yuuki_(sao)"
+        },
+        {
+          "nombre": "Emilia",
+          "id": "emilia_re_zero",
+          "serie": "Re:Zero",
+          "tag": "emilia_(re_zero)",
+          "valor": 900
+        },
+        {
+          "nombre": "Priscilla",
+          "id": "priscilla_barielle",
+          "serie": "Re:Zero",
+          "tag": "priscilla_barielle",
+          "valor": 550
+        },
+        {
+          "nombre": "Elsa",
+          "serie": "Re:Zero",
+          "genero": "Femenino",
+          "valor": 620,
+          "favorito": false,
+          "id": "elsa_granhiert",
+          "tag": "elsa_granhiert"
+        },
+        {
+          "nombre": "Petra",
+          "serie": "Re:Zero",
+          "genero": "Femenino",
+          "valor": 280,
+          "favorito": false,
+          "id": "petra_leyte",
+          "tag": "petra_leyte"
+        },
+        {
+          "nombre": "Anastasia",
+          "serie": "Re:Zero",
+          "genero": "Femenino",
+          "valor": 600,
+          "favorito": false,
+          "id": "anastasia_re_zero",
+          "tag": "anastasia_hoshin"
+        },
+        {
+          "nombre": "Cynthia",
+          "serie": "Pokemon",
+          "genero": "Femenino",
+          "valor": 1100,
+          "favorito": false,
+          "id": "shirona_pokemon",
+          "tag": "shirona_(pokemon)"
+        },
+        {
+          "nombre": "Shenhe",
+          "serie": "Genshin Impact",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "shenhe_genshin_impact",
+          "tag": "shenhe_(genshin_impact)"
+        },
+        {
+          "nombre": "Otto",
+          "serie": "Re:Zero",
+          "genero": "Masculino",
+          "valor": 300,
+          "favorito": false,
+          "id": "otto_suwen",
+          "tag": "otto_suwen"
+        },
+        {
+          "nombre": "Sinon",
+          "serie": "Sword Art Online",
+          "genero": "Femenino",
+          "valor": 700,
+          "favorito": false,
+          "id": "asada_shino",
+          "tag": "asada_shino"
+        },
+        {
+          "nombre": "Liliana",
+          "serie": "Re:Zero",
+          "genero": "Femenino",
+          "valor": 380,
+          "favorito": false,
+          "id": "liliana_masquerade",
+          "tag": "liliana_masquerade"
+        },
+        {
+          "nombre": "Himeko",
+          "serie": "Honkai Impact",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "himeko_murata",
+          "tag": "himeko_murata"
+        },
+        {
+          "nombre": "Yuki Suou",
+          "id": "suou_yuki",
+          "serie": "Alya Sometimes Hides Her Feelings in Russian",
+          "tag": "suou_yuki",
+          "valor": 1000
+        },
+        {
+          "nombre": "Hatsune Miku",
+          "id": "hatsune_miku",
+          "serie": "Vocaloid",
+          "tag": "hatsune_miku",
+          "valor": 1500
+        },
+        {
+          "nombre": "Akita Neru",
+          "id": "akita_neru",
+          "serie": "Vocaloid",
+          "tag": "akita_neru",
+          "valor": 700
+        },
+        {
+          "nombre": "Label",
+          "id": "label_nikke",
+          "serie": "Nikke",
+          "tag": "label_(nikke)",
+          "valor": 1400
+        },
+        {
+          "nombre": "Vamola",
+          "serie": "Dandadan",
+          "genero": "Femenino",
+          "valor": 1500,
+          "favorito": false,
+          "id": "vamola",
+          "tag": "vamola"
+        },
+        {
+          "nombre": "Anya Forger",
+          "serie": "Spy x Family",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "anya_spy_x_family",
+          "tag": "anya_(spy_x_family)"
+        },
+        {
+          "nombre": "Hahari Hanazono",
+          "id": "hanazono_hahari",
+          "serie": "The 100 Girlfriends",
+          "tag": "hanazono_hahari",
+          "valor": 880
+        },
+        {
+          "nombre": "Tiese",
+          "serie": "Sword Art Online",
+          "genero": "Femenino",
+          "valor": 320,
+          "favorito": false,
+          "id": "tiese_shtolienen",
+          "tag": "tiese_shtolienen"
+        },
+        {
+          "nombre": "Tenka Izumo",
+          "serie": "Chained Soldier",
+          "genero": "femenino",
+          "valor": 630,
+          "favorito": false,
+          "id": "izumo_tenka",
+          "tag": "izumo_tenka"
+        },
+        {
+          "nombre": "Jane Doe",
+          "id": "jane_doe_zenless_zone_zero",
+          "serie": "Zenless Zone Zero",
+          "tag": "jane_doe_(zenless_zone_zero)",
+          "valor": 1000
+        },
+        {
+          "nombre": "Madoka Shiranui",
+          "serie": "Kaoru Hana wa Rin to Saku",
+          "genero": "Femenino",
+          "valor": 700,
+          "favorito": false,
+          "id": "shiranui_madoka_(kaoru_hana_wa_rin_to_saku)",
+          "tag": "shiranui_madoka_(kaoru_hana_wa_rin_to_saku)"
+        },
+        {
+          "nombre": "Miku Nakano",
+          "id": "nakano_miku",
+          "serie": "The Quintessential Quintuplets",
+          "tag": "nakano_miku",
+          "valor": 1920
+        },
+        {
+          "nombre": "Alya Mikhailovna Kujou",
+          "id": "alisa_mikhailovna_kujou",
+          "serie": "Alya Sometimes Hides Her Feelings in Russian",
+          "tag": "alisa_mikhailovna_kujou",
+          "valor": 1700
+        },
+        {
+          "nombre": "Mikasa",
+          "id": "mikasa_ackerman",
+          "serie": "Attack on Titan",
+          "tag": "mikasa_ackerman",
+          "valor": 1000
+        },
+        {
+          "nombre": "Guild Girl",
+          "serie": "Goblin Slayer",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "guild_girl_goblin_slayer",
+          "tag": "guild_girl_(goblin_slayer)"
+        },
+        {
+          "nombre": "Epsilon",
+          "serie": "The Eminence in Shadow",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "epsilon_eminence",
+          "tag": "epsilon_(eminence_in_shadow)"
+        },
+        {
+          "nombre": "Zoro",
+          "serie": "One Piece",
+          "genero": "Masculino",
+          "valor": 1400,
+          "favorito": false,
+          "id": "roronoa_zoro",
+          "tag": "roronoa_zoro"
+        },
+        {
+          "nombre": "Itsuki Nakano",
+          "id": "nakano_itsuki",
+          "serie": "The Quintessential Quintuplets",
+          "tag": "nakano_itsuki",
+          "valor": 800
+        },
+        {
+          "nombre": "Yotsuba",
+          "id": "nakano_yotsuba",
+          "serie": "The Quintessential Quintuplets",
+          "tag": "nakano_yotsuba",
+          "valor": 820
+        },
+        {
+          "nombre": "Ichika",
+          "id": "nakano_ichika",
+          "serie": "The Quintessential Quintuplets",
+          "tag": "nakano_ichika",
+          "valor": 800
+        },
+        {
+          "nombre": "Nino",
+          "serie": "The Quintessential Quintuplets",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "nakano_nino",
+          "tag": "nakano_nino"
+        },
+        {
+          "nombre": "Rem",
+          "id": "rem_re_zero",
+          "serie": "Re:Zero",
+          "tag": "rem_(re_zero)",
+          "valor": 810
+        },
+        {
+          "nombre": "Ram",
+          "id": "ram_re_zero",
+          "serie": "Re:Zero",
+          "tag": "ram_(re_zero)",
+          "valor": 700
+        },
+        {
+          "nombre": "Yelan",
+          "serie": "Genshin Impact",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "yelan_genshin_impact",
+          "tag": "yelan_(genshin_impact)"
+        },
+        {
+          "nombre": "Madoka",
+          "serie": "Puella Magi Madoka Magica",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "kaname_madoka",
+          "tag": "kaname_madoka"
+        },
+        {
+          "nombre": "Ravel",
+          "serie": "Highschool DxD",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "ravel_phenex",
+          "tag": "ravel_phenex"
+        },
+        {
+          "nombre": "Eris",
+          "serie": "Konosuba",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "eris_konosuba",
+          "tag": "eris_(konosuba)"
+        },
+        {
+          "nombre": "Himeno",
+          "serie": "Chainsaw Man",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "himeno_chainsaw_man",
+          "tag": "himeno_(chainsaw_man)"
+        },
+        {
+          "nombre": "Seraphine",
+          "serie": "League of Legends",
+          "genero": "Femenino",
+          "valor": 1600,
+          "favorito": false,
+          "id": "seraphine_league_of_legends",
+          "tag": "seraphine_(league_of_legends)"
+        },
+        {
+          "nombre": "Reinhard",
+          "serie": "Re:Zero",
+          "genero": "Masculino",
+          "valor": 850,
+          "favorito": false,
+          "id": "reinhard_van_astrea",
+          "tag": "reinhard_van_astrea"
+        },
+        {
+          "nombre": "Crazy Mita",
+          "serie": "MiSide",
+          "genero": "Femenino",
+          "valor": 1400,
+          "favorito": false,
+          "id": "miside_crazy_mita",
+          "tag": "crazy_mita_(miside)"
+        },
+        {
+          "nombre": "Herta",
+          "serie": "Honkai: Star Rail",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "herta_star_rail",
+          "tag": "herta_(star_rail)"
+        },
+        {
+          "nombre": "Midori Kohakobe",
+          "serie": "Yofukashi no Uta",
+          "genero": "Femenino",
+          "valor": 1350,
+          "favorito": false,
+          "id": "midori_kohakobe",
+          "tag": "kohakobe_midori_(yofukashi_no_uta)"
+        },
+        {
+          "nombre": "Kurumi",
+          "serie": "Date A Live",
+          "genero": "Femenino",
+          "valor": 1200,
+          "favorito": false,
+          "id": "tokisaki_kurumi",
+          "tag": "tokisaki_kurumi"
+        },
+        {
+          "nombre": "Gojo",
+          "id": "gojo_satoru",
+          "serie": "Jujutsu Kaisen",
+          "tag": "gojo_satoru",
+          "valor": 2000
+        },
+        {
+          "nombre": "Masumi Seki",
+          "serie": "Oyasumi Punpun",
+          "genero": "Masculino",
+          "valor": 760,
+          "favorito": false,
+          "id": "masumi_seki",
+          "tag": "seki_masumi_(oyasumi_punpun)"
+        },
+        {
+          "nombre": "Uta one piece",
+          "serie": "One Piece",
+          "genero": "Femenino",
+          "valor": 830,
+          "favorito": false,
+          "id": "uta_one_piece",
+          "tag": "uta_(one_piece)"
+        },
+        {
+          "nombre": "Seele Vollerei",
+          "serie": "Honkai Impact",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "seele_vollerei",
+          "tag": "seele_vollerei"
+        },
+        {
+          "nombre": "Medusa",
+          "serie": "Fate",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "medusa_fate",
+          "tag": "medusa_(fate)"
+        },
+        {
+          "nombre": "Perona",
+          "serie": "One Piece",
+          "genero": "Femenino",
+          "valor": 700,
+          "favorito": false,
+          "id": "perona_one_piece",
+          "tag": "perona_(one_piece)"
+        },
+        {
+          "nombre": "Cow Girl",
+          "serie": "Goblin Slayer",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "cow_girl_goblin_slayer",
+          "tag": "cow_girl_(goblin_slayer)"
+        },
+        {
+          "nombre": "MAYU",
+          "serie": "Vocaloid",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "mayu_vocaloid",
+          "tag": "mayu_(vocaloid)"
+        },
+        {
+          "nombre": "Kikyo",
+          "serie": "Inuyasha",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "kikyou_inuyasha",
+          "tag": "kikyou_(inuyasha)"
+        },
+        {
+          "nombre": "Elysia",
+          "serie": "Honkai Impact",
+          "genero": "Femenino",
+          "valor": 1200,
+          "favorito": false,
+          "id": "elysia_honkai",
+          "tag": "elysia_(honkai)"
+        },
+        {
+          "nombre": "Wanderer",
+          "serie": "Genshin Impact",
+          "genero": "Masculino",
+          "valor": 1400,
+          "favorito": false,
+          "id": "scaramouche_genshin_impact",
+          "tag": "scaramouche_(genshin_impact)"
+        },
+        {
+          "nombre": "Quinella",
+          "serie": "Sword Art Online",
+          "genero": "Femenino",
+          "valor": 1200,
+          "favorito": false,
+          "id": "quinella_sao",
+          "tag": "quinella_(sao)"
+        },
+        {
+          "nombre": "Makima",
+          "serie": "Chainsaw Man",
+          "genero": "Femenino",
+          "valor": 1400,
+          "favorito": false,
+          "id": "makima_chainsaw_man",
+          "tag": "makima_(chainsaw_man)"
+        }
+      ],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [
+        {
+          "nombre": "Ibara",
+          "serie": "My Hero Academia",
+          "genero": "Femenino",
+          "valor": 600,
+          "favorito": false,
+          "id": "shiozaki_ibara",
+          "tag": "shiozaki_ibara"
+        }
+      ],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "ventasGrupo": {},
+    "logros": [
+      "primer_saldo",
+      "rico",
+      "millonario",
+      "multimillonario",
+      "casado",
+      "primer_logro",
+      "primer_combate",
+      "comunicador",
+      "aprendiz",
+      "charlatan",
+      "nocturno",
+      "primer_robo",
+      "campeon"
+    ],
+    "contadores": {
+      "combates": 19,
+      "victorias": 5,
+      "entrenamientos": 2,
+      "derrotas": 14,
+      "robosExitosos": 2,
+      "diarios": 1
+    },
+    "lastRoll": "Liliana",
+    "lastRollTime": 1781324168713,
+    "lastRollGroupId": "120363426185401970@g.us",
+    "stats": {
+      "fuerza": 14,
+      "defensa": 14,
+      "suerte": 12,
+      "xp": 133,
+      "nivel": 3
+    },
+    "itemsActivos": {
+      "lobo_guardian": 1781125173237
+    },
+    "racha": 0,
+    "reputacion": 3,
+    "clanId": "clan_gojo",
+    "favorito": "Rem y Ram",
+    "_combateLvlUp": 3,
+    "dailyStreak": 1,
+    "repDado": {
+      "573042894652@s.whatsapp.net": 1781218928903
+    }
+  },
+  "51931554834@s.whatsapp.net": {
+    "nombre": "214125863038996",
+    "pushName": "Lilo L.L",
+    "monedas": 0,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": 1781036152270,
+    "inventario": [],
+    "nivel": 2,
+    "experiencia": 95,
+    "mensajes": 39,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "mensajesSemana": 39,
+    "harem": [],
+    "cooldowns": {
+      "rw": 1781037961480,
+      "claim": 1781036062536,
+      "fight": 1781037567998,
+      "steal": 1781037541504
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "haremGrupo": {
+      "120363426185401970@g.us": [
+        {
+          "nombre": "Ronie",
+          "serie": "Sword Art Online",
+          "genero": "Femenino",
+          "valor": 410,
+          "favorito": false,
+          "id": "ronye_arabel_sword_art_online",
+          "tag": "ronye_arabel_(sword_art_online)"
+        },
+        {
+          "nombre": "Ryuk",
+          "serie": "Death Note",
+          "genero": "Masculino",
+          "valor": 600,
+          "favorito": false,
+          "id": "ryuk_death_note",
+          "tag": "ryuk_(death_note)"
+        }
+      ],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "ventasGrupo": {},
+    "lastRoll": "Yui (SAO)",
+    "lastRollTime": 1781037961480,
+    "lastRollGroupId": "120363426185401970@g.us",
+    "ultimoMinar": 1781036077912,
+    "contadores": {
+      "minados": 2,
+      "pescados": 2,
+      "aventurasOK": 2,
+      "mazmorrasOK": 1,
+      "combates": 6,
+      "victorias": 1,
+      "derrotas": 5,
+      "trabajos": 1
+    },
+    "logros": [
+      "primer_saldo",
+      "rico",
+      "millonario",
+      "multimillonario",
+      "primer_logro",
+      "banquero",
+      "primer_combate",
+      "primer_trabajo"
+    ],
+    "ultimoFish": 1781036079938,
+    "ultimaMazmorra": 1781036099874,
+    "ultimoSlut": 1781036092970,
+    "ultimoAdventure": 1781036088996,
+    "racha": 0,
+    "stats": {
+      "fuerza": 12,
+      "defensa": 12,
+      "suerte": 11,
+      "xp": 11,
+      "nivel": 2
+    },
+    "itemsActivos": {},
+    "_combateLvlUp": 2
+  },
+  "5219971043023@s.whatsapp.net": {
+    "nombre": "107361817653361",
+    "pushName": "Chris",
+    "monedas": 0,
+    "banco": 4312254,
+    "ultimoDiario": 1781382303875,
+    "ultimoTrabajo": 1781406052231,
+    "inventario": {
+      "caja_misteriosa": 0,
+      "escudo": 0
+    },
+    "nivel": 13,
+    "experiencia": 1255,
+    "mensajes": 1811,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": "hombre",
+    "descripcion": null,
+    "advertencias": 0,
+    "mensajesSemana": 1811,
+    "contadores": {
+      "trabajos": 28,
+      "minados": 31,
+      "pescados": 35,
+      "cazados": 32,
+      "mazmorrasOK": 10,
+      "aventurasOK": 17,
+      "entrenamientos": 33,
+      "crimenesOK": 21,
+      "combates": 54,
+      "victorias": 36,
+      "derrotas": 18,
+      "diarios": 5,
+      "slotsJugados": 13,
+      "misionesSemanalesOK": 3,
+      "ganadosTrivia": 6,
+      "apuestasGanadas": 3,
+      "coinflipGanados": 3,
+      "misionesOK": 13,
+      "victoriasBJ": 2,
+      "robosExitosos": 4
+    },
+    "logros": [
+      "primer_saldo",
+      "rico",
+      "millonario",
+      "multimillonario",
+      "primer_trabajo",
+      "banquero",
+      "primer_logro",
+      "primer_crimen",
+      "primer_combate",
+      "comunicador",
+      "apostador",
+      "pescador",
+      "aprendiz",
+      "cazador",
+      "campeon",
+      "minero",
+      "dueño",
+      "nocturno",
+      "charlatan",
+      "sabio",
+      "madrugador",
+      "aventurero",
+      "conquistador",
+      "leyenda",
+      "primer_robo",
+      "master_pescador",
+      "empleado_mes",
+      "maestro_cazador",
+      "maestro_minero",
+      "misionero"
+    ],
+    "misiones": {
+      "dia": 20618,
+      "lista": [
+        "train3",
+        "rob2",
+        "fight2"
+      ],
+      "progreso": {},
+      "reclamadas": [
+        "rob2",
+        "fight2"
+      ],
+      "snapshot": {
+        "trabajos": 26,
+        "robosExitosos": 2,
+        "apuestasGanadas": 3,
+        "ganadosTrivia": 6,
+        "ganadosMath": 0,
+        "victorias": 33,
+        "entrenamientos": 31,
+        "crimenesOK": 20,
+        "diarios": 5,
+        "victoriasBJ": 2,
+        "slotsJugados": 13
+      }
+    },
+    "haremGrupo": {
+      "120363426185401970@g.us": [
+        {
+          "nombre": "Videl",
+          "serie": "Dragon Ball",
+          "genero": "Femenino",
+          "valor": 750,
+          "favorito": false,
+          "id": "videl",
+          "tag": "videl"
+        },
+        {
+          "nombre": "Urahara",
+          "serie": "Bleach",
+          "genero": "Masculino",
+          "valor": 1600,
+          "favorito": false,
+          "id": "urahara_kisuke",
+          "tag": "urahara_kisuke"
+        },
+        {
+          "nombre": "Yui (SAO)",
+          "serie": "Sword Art Online",
+          "genero": "Femenino",
+          "valor": 600,
+          "favorito": false,
+          "id": "yui_sao",
+          "tag": "yui_(sao)"
+        },
+        {
+          "nombre": "Himari Azuma",
+          "serie": "Chained Soldier",
+          "genero": "femenino",
+          "valor": 500,
+          "favorito": false,
+          "id": "azuma_himari",
+          "tag": "azuma_himari"
+        },
+        {
+          "nombre": "Neji",
+          "serie": "Naruto",
+          "genero": "Masculino",
+          "valor": 750,
+          "favorito": false,
+          "id": "hyuuga_neji",
+          "tag": "hyuuga_neji"
+        },
+        {
+          "nombre": "Lemon Irvine",
+          "id": "lemon_irvine",
+          "serie": "Mashle",
+          "tag": "lemon_irvine",
+          "valor": 850
+        },
+        {
+          "nombre": "Mash Burnedead",
+          "serie": "Mashle",
+          "genero": "Masculino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "mash_burnedead",
+          "tag": "mash_burnedead"
+        },
+        {
+          "nombre": "Lance Crown",
+          "serie": "Mashle",
+          "genero": "Masculino",
+          "valor": 850,
+          "favorito": false,
+          "id": "lance_crown_mashle",
+          "tag": "lance_crown_(mashle)"
+        },
+        {
+          "nombre": "Liliruca Arde",
+          "serie": "DanMachi",
+          "genero": "Femenino",
+          "valor": 700,
+          "favorito": false,
+          "id": "liliruca_arde",
+          "tag": "liliruca_arde"
+        },
+        {
+          "nombre": "Kagura",
+          "serie": "Inuyasha",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "kagura_inuyasha",
+          "tag": "kagura_(inuyasha)"
+        },
+        {
+          "nombre": "Chifuyu",
+          "serie": "Tokyo Revengers",
+          "genero": "Masculino",
+          "valor": 1100,
+          "favorito": false,
+          "id": "matsuno_chifuyu",
+          "tag": "matsuno_chifuyu"
+        },
+        {
+          "nombre": "Ymir",
+          "serie": "Attack on Titan",
+          "genero": "Femenino",
+          "valor": 580,
+          "favorito": false,
+          "id": "ymir_shingeki_no_kyojin",
+          "tag": "ymir_(shingeki_no_kyojin)"
+        },
+        {
+          "nombre": "Sango",
+          "serie": "Inuyasha",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "sango_inuyasha",
+          "tag": "sango_(inuyasha)"
+        },
+        {
+          "nombre": "Kobayashi",
+          "id": "kobayashi_kobayashi_san_chi_no_maid_dragon",
+          "serie": "Miss Kobayashi Dragon Maid",
+          "tag": "kobayashi_(kobayashi-san_chi_no_maid_dragon)",
+          "valor": 750
+        },
+        {
+          "nombre": "Hitomi",
+          "id": "tsukishiro_hitomi",
+          "serie": "Iroduku The World in Colors",
+          "tag": "tsukishiro_hitomi",
+          "valor": 900
+        },
+        {
+          "nombre": "Rosie",
+          "serie": "Animal Crossing",
+          "genero": "Femenino",
+          "valor": 1500,
+          "favorito": false,
+          "id": "rosie_animal_crossing",
+          "tag": "rosie_(animal_crossing)"
+        },
+        {
+          "nombre": "Ahri",
+          "serie": "League of Legends",
+          "genero": "Femenino",
+          "valor": 1900,
+          "favorito": false,
+          "id": "ahri_league_of_legends",
+          "tag": "ahri_(league_of_legends)"
+        },
+        {
+          "nombre": "Neon",
+          "serie": "Hunter x Hunter",
+          "genero": "Femenino",
+          "valor": 700,
+          "favorito": false,
+          "id": "neon_nostrade",
+          "tag": "neon_nostrade"
+        },
+        {
+          "nombre": "Chibi Mita",
+          "serie": "MiSide",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "chibi_mita_miside",
+          "tag": "chibi_mita_(miside)"
+        },
+        {
+          "nombre": "Kazushi Sudou",
+          "serie": "Overflow",
+          "genero": "Masculino",
+          "valor": 400,
+          "favorito": false,
+          "id": "kazushi_sudou_overflow",
+          "tag": "sudou_kazushi_(overflow)"
+        },
+        {
+          "nombre": "Sasha",
+          "serie": "Attack on Titan",
+          "genero": "Femenino",
+          "valor": 550,
+          "favorito": false,
+          "id": "sasha_blouse",
+          "tag": "sasha_blouse"
+        },
+        {
+          "nombre": "Mejiro McQueen",
+          "serie": "Uma Musume: Pretty Derby",
+          "genero": "Femenino",
+          "valor": 1450,
+          "favorito": false,
+          "id": "mejiro_mcqueen",
+          "tag": "mejiro_mcqueen_(umamusume)"
+        },
+        {
+          "nombre": "Mio Honda",
+          "serie": "THE iDOLM@STER Cinderella Girls",
+          "genero": "Femenino",
+          "valor": 1500,
+          "favorito": false,
+          "id": "honda_mio",
+          "tag": "honda_mio"
+        },
+        {
+          "nombre": "Jolyne Cujoh",
+          "serie": "JoJo's Bizarre Adventure",
+          "genero": "Femenino",
+          "valor": 1300,
+          "favorito": false,
+          "id": "cujoh_jolyne",
+          "tag": "cujoh_jolyne"
+        },
+        {
+          "nombre": "Crown",
+          "serie": "Nikke",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "crown_nikke",
+          "tag": "crown_(nikke)"
+        },
+        {
+          "nombre": "Fuki",
+          "serie": "Lycoris Recoil",
+          "genero": "Femenino",
+          "valor": 750,
+          "favorito": false,
+          "id": "fuki_lycoris_recoil",
+          "tag": "fuki_(lycoris_recoil)"
+        },
+        {
+          "nombre": "Hange",
+          "serie": "Attack on Titan",
+          "genero": "Femenino",
+          "valor": 650,
+          "favorito": false,
+          "id": "hange_zoe",
+          "tag": "hange_zoe"
+        },
+        {
+          "nombre": "Seele",
+          "serie": "Honkai: Star Rail",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "seele_star_rail",
+          "tag": "seele_(star_rail)"
+        },
+        {
+          "nombre": "Kurumi (Lycoris Recoil)",
+          "serie": "Lycoris Recoil",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "kurumi_lycoris_recoil",
+          "tag": "kurumi_(lycoris_recoil)"
+        },
+        {
+          "nombre": "Karin",
+          "serie": "Naruto",
+          "genero": "Femenino",
+          "valor": 650,
+          "favorito": false,
+          "id": "uzumaki_karin",
+          "tag": "uzumaki_karin"
+        },
+        {
+          "nombre": "Megumin",
+          "serie": "Konosuba",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "megumin",
+          "tag": "megumin"
+        },
+        {
+          "nombre": "Jean",
+          "serie": "Attack on Titan",
+          "genero": "Masculino",
+          "valor": 500,
+          "favorito": false,
+          "id": "jean_kirschtein",
+          "tag": "jean_kirschtein"
+        },
+        {
+          "nombre": "Rangiku",
+          "serie": "Bleach",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "matsumoto_rangiku",
+          "tag": "matsumoto_rangiku"
+        },
+        {
+          "nombre": "Connie",
+          "serie": "Attack on Titan",
+          "genero": "Masculino",
+          "valor": 400,
+          "favorito": false,
+          "id": "connie_springer",
+          "tag": "connie_springer"
+        },
+        {
+          "nombre": "Ruka",
+          "serie": "Rent a Girlfriend",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "sarashina_ruka",
+          "tag": "sarashina_ruka"
+        },
+        {
+          "nombre": "Delta",
+          "serie": "The Eminence in Shadow",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "delta_eminence",
+          "tag": "delta_(eminence_in_shadow)"
+        },
+        {
+          "nombre": "Blanc",
+          "serie": "Nikke",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "blanc_nikke",
+          "tag": "blanc_(nikke)"
+        },
+        {
+          "nombre": "Mt. Lady",
+          "serie": "My Hero Academia",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "mt_lady",
+          "tag": "mt._lady"
+        },
+        {
+          "nombre": "Kokushibo",
+          "serie": "Demon Slayer",
+          "genero": "Masculino",
+          "valor": 1500,
+          "favorito": false,
+          "id": "kokushibo_kimetsu",
+          "tag": "kokushibou"
+        },
+        {
+          "nombre": "Magia Baiser",
+          "serie": "Mahou Shoujo ni Akogarete",
+          "genero": "Femenino",
+          "valor": 1850,
+          "favorito": false,
+          "id": "magia_baiser",
+          "tag": "magia_baiser"
+        },
+        {
+          "nombre": "Darkness",
+          "serie": "Konosuba",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "lalatina_dustiness_ford",
+          "tag": "lalatina_dustiness_ford"
+        },
+        {
+          "nombre": "Wiene",
+          "serie": "DanMachi",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "wiene_danmachi",
+          "tag": "wiene_(danmachi)"
+        },
+        {
+          "nombre": "Hilda",
+          "serie": "Pokemon",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "touko_pokemon",
+          "tag": "touko_(pokemon)"
+        },
+        {
+          "nombre": "Sakura Matou",
+          "serie": "Fate",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "matou_sakura",
+          "tag": "matou_sakura"
+        },
+        {
+          "nombre": "Eren",
+          "serie": "Attack on Titan",
+          "genero": "Masculino",
+          "valor": 900,
+          "favorito": false,
+          "id": "eren_yeager",
+          "tag": "eren_yeager"
+        },
+        {
+          "nombre": "Uraume",
+          "serie": "Jujutsu Kaisen",
+          "genero": "Femenino",
+          "valor": 700,
+          "favorito": false,
+          "id": "uraume_jujutsu",
+          "tag": "uraume_(jujutsu)"
+        },
+        {
+          "nombre": "Len - meltyblood",
+          "serie": "Melty Blood",
+          "genero": "Femenino",
+          "valor": 1450,
+          "favorito": false,
+          "id": "len_melty_blood",
+          "tag": "len_(melty_blood)"
+        },
+        {
+          "nombre": "Mei Hatsume",
+          "serie": "My Hero Academia",
+          "genero": "Femenino",
+          "valor": 700,
+          "favorito": false,
+          "id": "hatsume_mei",
+          "tag": "hatsume_mei"
+        },
+        {
+          "nombre": "Fauna",
+          "serie": "Animal Crossing",
+          "genero": "Femenino",
+          "valor": 1350,
+          "favorito": false,
+          "id": "fauna_animal_crossing",
+          "tag": "fauna_(animal_crossing)"
+        },
+        {
+          "nombre": "Melty",
+          "serie": "Shield Hero",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "melty_q_melromarc",
+          "tag": "melty_q_melromarc"
+        }
+      ],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "ultimoMinar": 1781406060371,
+    "ultimoFish": 1781406066589,
+    "ultimoCazar": 1781406070235,
+    "ultimaMazmorra": 1781400374792,
+    "ultimoAdventure": 1781400378537,
+    "cooldowns": {
+      "train": 1781405989257,
+      "rw": 1781406035317,
+      "claim": 1781400430767,
+      "fight": 1781406088572,
+      "steal": 1781405996803
+    },
+    "stats": {
+      "fuerza": 26,
+      "defensa": 26,
+      "suerte": 18,
+      "xp": 229,
+      "nivel": 9
+    },
+    "harem": [],
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {},
+    "lastRoll": "Leafa",
+    "lastRollTime": 1781406035317,
+    "lastRollGroupId": "120363426185401970@g.us",
+    "ultimoSlut": 1781406077186,
+    "ultimoCrimen": 1781406074323,
+    "itemsActivos": {
+      "escudo": true
+    },
+    "_combateLvlUp": 9,
+    "misionesSemanales": {
+      "semana": 2945,
+      "lista": [
+        "sw_daily5",
+        "sw_bj5",
+        "sw_train10"
+      ],
+      "reclamadas": [
+        "sw_train10"
+      ],
+      "snapshot": {
+        "trabajos": 15,
+        "robosExitosos": 0,
+        "apuestasGanadas": 3,
+        "victorias": 23,
+        "crimenesOK": 13,
+        "ganadosTrivia": 6,
+        "diarios": 2,
+        "entrenamientos": 20,
+        "victoriasBJ": 1,
+        "slotsJugados": 13,
+        "coinflipGanados": 3,
+        "repRecibida": 0
+      }
+    },
+    "dailyStreak": 5,
+    "racha": 0,
+    "rachaMax": 2,
+    "ultimoAdoptar": 1781046443165,
+    "mascota": {
+      "nombre": "Palkia",
+      "especie": "Palkia",
+      "especiePokeId": 484,
+      "tipos": [
+        "water",
+        "dragon"
+      ],
+      "rareza": "Legendario",
+      "rarezaColor": "🟨",
+      "emoji": "⚡",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+      "nivel": 1,
+      "exp": 0,
+      "felicidad": 100,
+      "hambre": 100,
+      "ultimoAlimento": 1781046443165,
+      "ultimoJuego": 1781046443165
+    },
+    "reputacion": 5,
+    "repDado": {
+      "36271669956849@lid": 1781047803391,
+      "51974261945@s.whatsapp.net": 1781400802186,
+      "573042894652@s.whatsapp.net": 1781218827199,
+      "51993017848@s.whatsapp.net": 1781218934398,
+      "5219971210742@s.whatsapp.net": 1781219107412
+    },
+    "clanId": "clan_gojo",
+    "favorito": "Denji",
+    "afk": {
+      "activo": false,
+      "mensaje": "me voy a bañar",
+      "desde": 1781139221664
+    }
+  },
+  "573245501919@s.whatsapp.net": {
+    "nombre": "225349065556063",
+    "pushName": null,
+    "monedas": 80712,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "stats": {
+      "fuerza": 14,
+      "defensa": 14,
+      "suerte": 12,
+      "xp": 171,
+      "nivel": 3
+    },
+    "itemsActivos": {},
+    "contadores": {
+      "combates": 33,
+      "derrotas": 27,
+      "victorias": 6
+    },
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "_combateLvlUp": 3
+  },
+  "5214442873429@s.whatsapp.net": {
+    "nombre": "33888114102302",
+    "pushName": "choso",
+    "monedas": 158697,
+    "banco": 0,
+    "ultimoDiario": 1781329517712,
+    "ultimoTrabajo": 1781409112140,
+    "inventario": [],
+    "nivel": 7,
+    "experiencia": 640,
+    "mensajes": 548,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [
+        {
+          "nombre": "Toji",
+          "id": "fushiguro_toji",
+          "serie": "Jujutsu Kaisen",
+          "tag": "fushiguro_toji",
+          "valor": 1400
+        },
+        {
+          "nombre": "Jet Black",
+          "serie": "Cowboy Bebop",
+          "genero": "Masculino",
+          "valor": 800,
+          "favorito": false,
+          "id": "jet_black_cowboy_bebop",
+          "tag": "jet_black_(cowboy_bebop)"
+        },
+        {
+          "nombre": "Liebert",
+          "serie": "Spice and Wolf",
+          "genero": "Masculino",
+          "valor": 650,
+          "favorito": false,
+          "id": "marten_libert",
+          "tag": "marten_libert"
+        }
+      ],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "mensajesSemana": 548,
+    "stats": {
+      "fuerza": 14,
+      "defensa": 14,
+      "suerte": 12,
+      "xp": 50,
+      "nivel": 3
+    },
+    "itemsActivos": {},
+    "contadores": {
+      "combates": 9,
+      "derrotas": 8,
+      "inversiones": 7,
+      "entrenamientos": 12,
+      "trabajos": 12,
+      "pescados": 9,
+      "cazados": 9,
+      "minados": 9,
+      "mazmorrasOK": 3,
+      "aventurasOK": 5,
+      "misionesOK": 3,
+      "victoriasBJ": 7,
+      "diarios": 2,
+      "crimenesOK": 4,
+      "apuestasGanadas": 1,
+      "coinflipGanados": 1,
+      "victorias": 1
+    },
+    "misiones": {
+      "dia": 20618,
+      "lista": [
+        "crime3",
+        "work3",
+        "math3"
+      ],
+      "progreso": {},
+      "reclamadas": [
+        "work3"
+      ],
+      "snapshot": {
+        "trabajos": 8,
+        "robosExitosos": 0,
+        "apuestasGanadas": 1,
+        "ganadosTrivia": 0,
+        "ganadosMath": 0,
+        "victorias": 1,
+        "entrenamientos": 8,
+        "crimenesOK": 2,
+        "diarios": 2,
+        "victoriasBJ": 2,
+        "slotsJugados": 0
+      }
+    },
+    "logros": [
+      "primer_saldo",
+      "primer_combate",
+      "primer_logro",
+      "rico",
+      "inversor",
+      "nocturno",
+      "primer_trabajo",
+      "millonario",
+      "multimillonario",
+      "banquero",
+      "comunicador",
+      "primer_crimen",
+      "aprendiz",
+      "pescador",
+      "cazador",
+      "minero",
+      "apostador",
+      "inversor_pro",
+      "bj_pro",
+      "aventurero",
+      "madrugador",
+      "charlatan"
+    ],
+    "harem": [],
+    "cooldowns": {
+      "train": 1781409115175,
+      "fight": 1781331076911,
+      "rw": 1781409486518,
+      "claim": 1781330954440
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {},
+    "inversion": {
+      "cantidad": 3200000,
+      "fecha": 1781400453519
+    },
+    "ultimoFish": 1781409139533,
+    "ultimoSlut": 1781409133785,
+    "ultimoCazar": 1781409141484,
+    "ultimoMinar": 1781409136454,
+    "ultimaMazmorra": 1781409161735,
+    "ultimoAdventure": 1781409175031,
+    "lastRoll": "Liebert",
+    "lastRollTime": 1781409486518,
+    "lastRollGroupId": "120363426185401970@g.us",
+    "misionesSemanales": {
+      "semana": 2945,
+      "lista": [
+        "sw_train10",
+        "sw_trivia10",
+        "sw_crime10"
+      ],
+      "reclamadas": [],
+      "snapshot": {
+        "trabajos": 4,
+        "robosExitosos": 0,
+        "apuestasGanadas": 0,
+        "victorias": 0,
+        "crimenesOK": 0,
+        "ganadosTrivia": 0,
+        "diarios": 0,
+        "entrenamientos": 4,
+        "victoriasBJ": 0,
+        "slotsJugados": 0,
+        "coinflipGanados": 0,
+        "repRecibida": 0
+      }
+    },
+    "ultimoCrimen": 1781409122982,
+    "afk": {
+      "activo": false,
+      "mensaje": "nos vemos en 13 minutos",
+      "desde": 1781403552539
+    },
+    "dailyStreak": 2
+  },
+  "5219971210742@s.whatsapp.net": {
+    "nombre": "139148988047586",
+    "pushName": "♡❀ Limón ❀♡",
+    "monedas": 800,
+    "banco": 2180500,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 8,
+    "experiencia": 430,
+    "mensajes": 646,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [
+        {
+          "nombre": "Zenitsu",
+          "serie": "Demon Slayer",
+          "genero": "Masculino",
+          "valor": 700,
+          "favorito": false,
+          "id": "agatsuma_zenitsu",
+          "tag": "agatsuma_zenitsu"
+        }
+      ],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "mensajesSemana": 646,
+    "stats": {
+      "fuerza": 12,
+      "defensa": 12,
+      "suerte": 11,
+      "xp": 174,
+      "nivel": 2
+    },
+    "itemsActivos": {},
+    "contadores": {
+      "combates": 6,
+      "victorias": 2,
+      "entrenamientos": 3,
+      "derrotas": 4,
+      "pescados": 1
+    },
+    "_combateLvlUp": 2,
+    "cooldowns": {
+      "train": 1781229167213,
+      "rw": 1781099544364
+    },
+    "logros": [
+      "primer_saldo",
+      "rico",
+      "primer_combate",
+      "primer_logro",
+      "millonario",
+      "banquero",
+      "comunicador",
+      "aprendiz",
+      "nocturno"
+    ],
+    "harem": [],
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {},
+    "lastRoll": null,
+    "lastRollTime": null,
+    "lastRollGroupId": null,
+    "ultimoFish": 1781213429232,
+    "reputacion": 4,
+    "repDado": {
+      "573042894652@s.whatsapp.net": 1781219079902
+    }
+  },
+  "51931147701@s.whatsapp.net": {
+    "nombre": "236262510325870",
+    "pushName": "☆Lu...★",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "5215626063783@s.whatsapp.net": {
+    "monedas": 142624,
+    "harem": [],
+    "cooldowns": {
+      "rw": 1781417020352,
+      "claim": 1781417024842,
+      "fight": 1781112328904,
+      "train": 1781294213604,
+      "steal": 1781223799042
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "haremGrupo": {
+      "120363426185401970@g.us": [
+        {
+          "nombre": "Tenten",
+          "serie": "Naruto",
+          "genero": "Femenino",
+          "valor": 550,
+          "favorito": false,
+          "id": "tenten_naruto",
+          "tag": "tenten_(naruto)"
+        },
+        {
+          "nombre": "Petra Rall",
+          "serie": "Attack on Titan",
+          "genero": "Femenino",
+          "valor": 600,
+          "favorito": false,
+          "id": "petra_ral",
+          "tag": "petra_ral"
+        },
+        {
+          "nombre": "Evan",
+          "serie": "Spice and Wolf",
+          "genero": "Masculino",
+          "valor": 600,
+          "favorito": false,
+          "id": "evan_gyoam",
+          "tag": "evan_gyoam"
+        },
+        {
+          "nombre": "Maki",
+          "serie": "Jujutsu Kaisen",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "zenin_maki",
+          "tag": "zenin_maki"
+        },
+        {
+          "nombre": "Mina",
+          "serie": "My Hero Academia",
+          "genero": "Femenino",
+          "valor": 720,
+          "favorito": false,
+          "id": "ashido_mina",
+          "tag": "ashido_mina"
+        },
+        {
+          "nombre": "Pan",
+          "serie": "Dragon Ball",
+          "genero": "Femenino",
+          "valor": 600,
+          "favorito": false,
+          "id": "pan_dragon_ball",
+          "tag": "pan_(dragon_ball)"
+        },
+        {
+          "nombre": "Takumu Mayuzumi",
+          "serie": "Accel World",
+          "genero": "Masculino",
+          "valor": 850,
+          "favorito": false,
+          "id": "mayuzumi_takumu",
+          "tag": "mayuzumi_takumu"
+        }
+      ],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "ventasGrupo": {},
+    "lastRoll": null,
+    "lastRollTime": null,
+    "lastRollGroupId": null,
+    "banco": 0,
+    "ultimoTrabajo": 1781417018407,
+    "mensajes": 275,
+    "pareja": null,
+    "parejaNombre": null,
+    "pushName": "Feranjiro",
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "experiencia": 375,
+    "nivel": 5,
+    "mensajesSemana": 275,
+    "logros": [
+      "primer_saldo",
+      "rico",
+      "primer_logro",
+      "millonario",
+      "primer_trabajo",
+      "bj_pro",
+      "multimillonario",
+      "primer_combate",
+      "dueño",
+      "comunicador",
+      "nocturno",
+      "cazador",
+      "primer_crimen",
+      "minero",
+      "primer_robo",
+      "conquistador",
+      "aprendiz",
+      "pescador",
+      "bj_legend"
+    ],
+    "contadores": {
+      "victoriasBJ": 21,
+      "trabajos": 15,
+      "cazados": 12,
+      "pescados": 6,
+      "mazmorrasOK": 6,
+      "minados": 8,
+      "aventurasOK": 1,
+      "combates": 6,
+      "derrotas": 6,
+      "entrenamientos": 6,
+      "crimenesOK": 1,
+      "robosExitosos": 2,
+      "diarios": 1
+    },
+    "ultimoCazar": 1781370823536,
+    "ultimoFish": 1781223738642,
+    "ultimaMazmorra": 1781370831100,
+    "ultimoMinar": 1781370828986,
+    "ultimoSlut": 1781223772000,
+    "ultimoAdventure": 1781041022695,
+    "stats": {
+      "fuerza": 12,
+      "defensa": 12,
+      "suerte": 11,
+      "xp": 79,
+      "nivel": 2
+    },
+    "itemsActivos": {},
+    "ultimoAdoptar": 1781294305502,
+    "mascota": {
+      "nombre": "Magikarp",
+      "especie": "Magikarp",
+      "especiePokeId": 129,
+      "tipos": [
+        "water"
+      ],
+      "rareza": "Épico",
+      "rarezaColor": "🟪",
+      "emoji": "⚡",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+      "nivel": 1,
+      "exp": 0,
+      "felicidad": 100,
+      "hambre": 100,
+      "ultimoAlimento": 1781294305502,
+      "ultimoJuego": 1781294305502
+    },
+    "ultimoCrimen": 1781223758369,
+    "encarcelado": 1781053254465,
+    "misiones": {
+      "dia": 20616,
+      "lista": [
+        "work5",
+        "work3",
+        "slots2"
+      ],
+      "progreso": {},
+      "reclamadas": [],
+      "snapshot": {
+        "trabajos": 10,
+        "robosExitosos": 2,
+        "apuestasGanadas": 0,
+        "ganadosTrivia": 0,
+        "ganadosMath": 0,
+        "victorias": 0,
+        "entrenamientos": 5,
+        "crimenesOK": 1,
+        "diarios": 0,
+        "victoriasBJ": 20,
+        "slotsJugados": 0
+      }
+    },
+    "misionesSemanales": {
+      "semana": 2945,
+      "lista": [
+        "sw_bet15",
+        "sw_crime10",
+        "sw_work15"
+      ],
+      "reclamadas": [],
+      "snapshot": {
+        "trabajos": 8,
+        "robosExitosos": 2,
+        "apuestasGanadas": 0,
+        "victorias": 0,
+        "crimenesOK": 1,
+        "ganadosTrivia": 0,
+        "diarios": 0,
+        "entrenamientos": 4,
+        "victoriasBJ": 16,
+        "slotsJugados": 0,
+        "coinflipGanados": 0,
+        "repRecibida": 0
+      }
+    },
+    "ultimoDiario": 1781223509962,
+    "dailyStreak": 1
+  },
+  "51990342215@s.whatsapp.net": {
+    "nombre": "201864217935872",
+    "pushName": "°•†×±JOKER±×†•°",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 10,
+    "mensajes": 2,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "mensajesSemana": 2
+  },
+  "573208294851@s.whatsapp.net": {
+    "nombre": "40751287291917",
+    "pushName": "hisako",
+    "monedas": 0,
+    "banco": 240936,
+    "ultimoDiario": 1781381490202,
+    "ultimoTrabajo": 1781393808589,
+    "inventario": [],
+    "nivel": 16,
+    "experiencia": 1125,
+    "mensajes": 2625,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "mensajesSemana": 2625,
+    "contadores": {
+      "trabajos": 24,
+      "pescados": 29,
+      "cazados": 25,
+      "mazmorrasOK": 8,
+      "robosExitosos": 13,
+      "combates": 115,
+      "victorias": 90,
+      "victoriasBJ": 39,
+      "entrenamientos": 19,
+      "minados": 25,
+      "diarios": 4,
+      "derrotas": 25,
+      "inversiones": 4,
+      "aventurasOK": 12,
+      "misionesOK": 10,
+      "apuestasGanadas": 15,
+      "coinflipGanados": 12,
+      "misionesSemanalesOK": 2,
+      "crimenesOK": 15,
+      "slotsJugados": 9,
+      "ruletasGanadas": 3,
+      "ganadosMath": 4
+    },
+    "logros": [
+      "primer_saldo",
+      "primer_trabajo",
+      "primer_logro",
+      "banquero",
+      "rico",
+      "primer_robo",
+      "primer_combate",
+      "inversor",
+      "comunicador",
+      "aprendiz",
+      "campeon",
+      "apostador",
+      "millonario",
+      "primer_crimen",
+      "bj_pro",
+      "pescador",
+      "cazador",
+      "minero",
+      "charlatan",
+      "leyenda",
+      "nocturno",
+      "aventurero",
+      "conquistador",
+      "coinflip_lucky",
+      "bj_legend",
+      "gladiador",
+      "maestro_ladron",
+      "empleado_mes",
+      "master_pescador",
+      "veterano_nivel",
+      "misionero",
+      "maestro_cazador",
+      "maestro_minero"
+    ],
+    "ultimoFish": 1781391381731,
+    "haremGrupo": {
+      "120363426185401970@g.us": [
+        {
+          "nombre": "Asuna",
+          "id": "asuna_sao",
+          "serie": "Sword Art Online",
+          "tag": "asuna_(sao)",
+          "valor": 900
+        },
+        {
+          "nombre": "Cana",
+          "id": "cana_alberona",
+          "serie": "Fairy Tail",
+          "tag": "cana_alberona",
+          "valor": 850
+        },
+        {
+          "nombre": "Kirito",
+          "id": "kirigaya_kazuto",
+          "serie": "Sword Art Online",
+          "tag": "kirigaya_kazuto",
+          "valor": 800
+        },
+        {
+          "nombre": "Eugeo",
+          "id": "eugeo_sao",
+          "serie": "Sword Art Online",
+          "tag": "eugeo_(sao)",
+          "valor": 400
+        },
+        {
+          "nombre": "Niko Hirata",
+          "serie": "Yofukashi no Uta",
+          "genero": "Femenino",
+          "valor": 1350,
+          "favorito": false,
+          "id": "niko_hirata",
+          "tag": "hirata_niko_(yofukashi_no_uta)"
+        },
+        {
+          "nombre": "Akihiko Asai",
+          "serie": "Uzaki-chan wa Asobitai!",
+          "genero": "Masculino",
+          "valor": 600,
+          "favorito": false,
+          "id": "akihiko_asai",
+          "tag": "asai_akihiko"
+        },
+        {
+          "nombre": "Illyasviel",
+          "serie": "Fate",
+          "genero": "Femenino",
+          "valor": 1000,
+          "favorito": false,
+          "id": "illyasviel_von_einzbern",
+          "tag": "illyasviel_von_einzbern"
+        },
+        {
+          "nombre": "Kokomi",
+          "serie": "Genshin Impact",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "sangonomiya_kokomi",
+          "tag": "sangonomiya_kokomi"
+        },
+        {
+          "nombre": "Naofumi",
+          "serie": "Shield Hero",
+          "genero": "Masculino",
+          "valor": 1200,
+          "favorito": false,
+          "id": "iwatani_naofumi",
+          "tag": "iwatani_naofumi"
+        }
+      ],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "ultimoCazar": 1781391384301,
+    "ultimoSlut": 1781391384923,
+    "ultimoAdventure": 1781391443373,
+    "ultimaMazmorra": 1781391445305,
+    "ultimoCrimen": 1781391449606,
+    "cooldowns": {
+      "steal": 1781393787509,
+      "rw": 1781395613564,
+      "fight": 1781395625875,
+      "train": 1781393768342,
+      "claim": 1781290815709
+    },
+    "harem": [],
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {
+      "120363426185401970@g.us": [
+        {
+          "personaje": {
+            "nombre": "A2",
+            "serie": "Nier: Automata",
+            "genero": "Femenino",
+            "valor": 900,
+            "favorito": false,
+            "id": "yorha_type_a_no_2",
+            "tag": "yorha_type_a_no._2"
+          },
+          "precio": 1200000,
+          "vendedor": "573208294851@s.whatsapp.net"
+        }
+      ]
+    },
+    "lastRoll": "Karin",
+    "lastRollTime": 1781395613564,
+    "lastRollGroupId": "120363426185401970@g.us",
+    "stats": {
+      "fuerza": 34,
+      "defensa": 34,
+      "suerte": 22,
+      "xp": 283,
+      "nivel": 13
+    },
+    "itemsActivos": {},
+    "ultimoMinar": 1781391436599,
+    "dailyStreak": 1,
+    "_combateLvlUp": 13,
+    "inversion": {
+      "cantidad": 4000000,
+      "fecha": 1781391415249
+    },
+    "misiones": {
+      "dia": 20617,
+      "lista": [
+        "crime3",
+        "daily1",
+        "fight2"
+      ],
+      "progreso": {},
+      "reclamadas": [
+        "daily1"
+      ],
+      "snapshot": {
+        "trabajos": 23,
+        "robosExitosos": 12,
+        "apuestasGanadas": 15,
+        "ganadosTrivia": 0,
+        "ganadosMath": 4,
+        "victorias": 85,
+        "entrenamientos": 17,
+        "crimenesOK": 15,
+        "diarios": 3,
+        "victoriasBJ": 36,
+        "slotsJugados": 9
+      }
+    },
+    "misionesSemanales": {
+      "semana": 2945,
+      "lista": [
+        "sw_work15",
+        "sw_daily5",
+        "sw_coinflip5"
+      ],
+      "reclamadas": [
+        "sw_coinflip5"
+      ],
+      "snapshot": {
+        "trabajos": 14,
+        "robosExitosos": 9,
+        "apuestasGanadas": 10,
+        "victorias": 45,
+        "crimenesOK": 8,
+        "ganadosTrivia": 0,
+        "diarios": 2,
+        "entrenamientos": 8,
+        "victoriasBJ": 18,
+        "slotsJugados": 9,
+        "coinflipGanados": 7,
+        "repRecibida": 0
+      }
+    },
+    "racha": 0,
+    "clanId": "clan_gojo",
+    "afk": {
+      "activo": false,
+      "mensaje": "tengo que estudiar para el itfes 😭😭",
+      "desde": 1781213440069
+    },
+    "rachaMax": 2,
+    "repDado": {
+      "573042894652@s.whatsapp.net": 1781280955276
+    }
+  },
+  "5214445374579@s.whatsapp.net": {
+    "nombre": "9475318640844",
+    "pushName": null,
+    "monedas": 14611,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "stats": {
+      "fuerza": 12,
+      "defensa": 12,
+      "suerte": 11,
+      "xp": 15,
+      "nivel": 2
+    },
+    "itemsActivos": {},
+    "contadores": {
+      "combates": 1,
+      "victorias": 1
+    },
+    "_combateLvlUp": 2
+  },
+  "51905985104@s.whatsapp.net": {
+    "nombre": "32109863379181",
+    "pushName": null,
+    "monedas": 1994895,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "stats": {
+      "fuerza": 10,
+      "defensa": 10,
+      "suerte": 10,
+      "xp": 0,
+      "nivel": 1
+    },
+    "itemsActivos": {},
+    "contadores": {
+      "combates": 2,
+      "derrotas": 2
+    },
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "5492974351097@s.whatsapp.net": {
+    "nombre": "90972088225918",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "5493773594301@s.whatsapp.net": {
+    "nombre": "12000574840949",
+    "pushName": "𝐒𝐡𝐢𝐧 𝐂𝖆𝖓𝖈𝖎𝖑𝖑𝖊𝖗 🦇🫀",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "51974261945@s.whatsapp.net": {
+    "nombre": "36271669956849",
+    "pushName": "♤☽༺ ꪑﺃ᥅ꪖﺃ ꪖ᥊ ༻☾♡",
+    "monedas": 0,
+    "banco": 119213,
+    "ultimoDiario": 1781393773392,
+    "ultimoTrabajo": 1781403654235,
+    "inventario": [],
+    "nivel": 12,
+    "experiencia": 445,
+    "mensajes": 1409,
+    "pareja": "27784898465966@lid",
+    "parejaNombre": "Beatrice",
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": "h...❤️❤️‍🩹💔",
+    "advertencias": 0,
+    "mensajesSemana": 1409,
+    "stats": {
+      "fuerza": 14,
+      "defensa": 14,
+      "suerte": 12,
+      "xp": 261,
+      "nivel": 3
+    },
+    "itemsActivos": {},
+    "contadores": {
+      "combates": 14,
+      "derrotas": 12,
+      "trabajos": 16,
+      "entrenamientos": 16,
+      "diarios": 4,
+      "minados": 19,
+      "cazados": 16,
+      "pescados": 22,
+      "aventurasOK": 9,
+      "mazmorrasOK": 7,
+      "ganadosTrivia": 1,
+      "crimenesOK": 12,
+      "misionesOK": 4,
+      "inversiones": 5,
+      "victorias": 2,
+      "robosExitosos": 3
+    },
+    "misiones": {
+      "dia": 20617,
+      "lista": [
+        "slots2",
+        "crime3",
+        "bj1"
+      ],
+      "progreso": {},
+      "reclamadas": [],
+      "snapshot": {
+        "trabajos": 13,
+        "robosExitosos": 2,
+        "apuestasGanadas": 0,
+        "ganadosTrivia": 1,
+        "ganadosMath": 0,
+        "victorias": 2,
+        "entrenamientos": 14,
+        "crimenesOK": 9,
+        "diarios": 3,
+        "victoriasBJ": 0,
+        "slotsJugados": 0
+      }
+    },
+    "logros": [
+      "primer_saldo",
+      "primer_combate",
+      "primer_logro",
+      "primer_trabajo",
+      "rico",
+      "millonario",
+      "banquero",
+      "comunicador",
+      "primer_crimen",
+      "aprendiz",
+      "nocturno",
+      "casado",
+      "inversor",
+      "pescador",
+      "minero",
+      "cazador",
+      "primer_robo",
+      "conquistador",
+      "charlatan",
+      "aventurero",
+      "inversor_pro"
+    ],
+    "haremGrupo": {
+      "120363426185401970@g.us": [
+        {
+          "nombre": "Klein",
+          "serie": "Sword Art Online",
+          "genero": "Masculino",
+          "valor": 600,
+          "favorito": false,
+          "id": "klein_sao",
+          "tag": "klein_(sao)"
+        },
+        {
+          "nombre": "David",
+          "serie": "Cyberpunk: Edgerunners",
+          "genero": "Masculino",
+          "valor": 1300,
+          "favorito": false,
+          "id": "david_martinez",
+          "tag": "david_martinez"
+        },
+        {
+          "nombre": "Sayaka Miki",
+          "serie": "Puella Magi Madoka Magica",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "miki_sayaka",
+          "tag": "miki_sayaka"
+        },
+        {
+          "nombre": "Nemu",
+          "serie": "Bleach",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "nemu_kurotsuchi",
+          "tag": "nemu_kurotsuchi"
+        },
+        {
+          "nombre": "Obanai",
+          "serie": "Demon Slayer",
+          "genero": "Masculino",
+          "valor": 850,
+          "favorito": false,
+          "id": "iguro_obanai",
+          "tag": "iguro_obanai"
+        },
+        {
+          "nombre": "Kafka",
+          "serie": "Honkai: Star Rail",
+          "genero": "Femenino",
+          "valor": 1100,
+          "favorito": false,
+          "id": "kafka_star_rail",
+          "tag": "kafka_(star_rail)"
+        },
+        {
+          "nombre": "Kei Karuizawa",
+          "serie": "Classroom of the Elite",
+          "genero": "Femenino",
+          "valor": 950,
+          "favorito": false,
+          "id": "karuizawa_kei",
+          "tag": "karuizawa_kei"
+        },
+        {
+          "nombre": "Akito",
+          "serie": "Fruits Basket",
+          "genero": "Femenino",
+          "valor": 1100,
+          "favorito": false,
+          "id": "sohma_akito",
+          "tag": "sohma_akito"
+        },
+        {
+          "nombre": "Akira Asai",
+          "serie": "Yofukashi no Uta",
+          "genero": "Femenino",
+          "valor": 1300,
+          "favorito": false,
+          "id": "akira_asai",
+          "tag": "asai_akira_(yofukashi_no_uta)"
+        },
+        {
+          "nombre": "Reg",
+          "serie": "Made in Abyss",
+          "genero": "Masculino",
+          "valor": 750,
+          "favorito": false,
+          "id": "reg_made_in_abyss",
+          "tag": "reg_(made_in_abyss)"
+        },
+        {
+          "nombre": "Gotanda",
+          "serie": "Oshi no Ko",
+          "genero": "Masculino",
+          "valor": 700,
+          "favorito": false,
+          "id": "gotanda_taishi",
+          "tag": "gotanda_taishi"
+        },
+        {
+          "nombre": "Midori Ookuma",
+          "serie": "Oyasumi Punpun",
+          "genero": "Femenino",
+          "valor": 720,
+          "favorito": false,
+          "id": "midori_ookuma",
+          "tag": "ookuma_midori_(oyasumi_punpun)"
+        },
+        {
+          "nombre": "Akihito Akiyama",
+          "serie": "Yofukashi no Uta",
+          "genero": "Masculino",
+          "valor": 800,
+          "favorito": false,
+          "id": "akihito_akiyama",
+          "tag": "akiyama_akihito_(yofukashi_no_uta)"
+        },
+        {
+          "nombre": "Exusiai",
+          "serie": "Arknights",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "exusiai_arknights",
+          "tag": "exusiai_(arknights)"
+        },
+        {
+          "nombre": "Hitori",
+          "id": "gotou_hitori",
+          "serie": "Bocchi the Rock!",
+          "tag": "gotou_hitori",
+          "valor": 950
+        },
+        {
+          "nombre": "Mimimi Utsukushisugi",
+          "serie": "The 100 Girlfriends",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "utsukushisugi_mimimi",
+          "tag": "utsukushisugi_mimimi"
+        },
+        {
+          "nombre": "Tanaka Aiko",
+          "serie": "Oyasumi Punpun",
+          "genero": "Femenino",
+          "valor": 850,
+          "favorito": false,
+          "id": "tanaka_aiko",
+          "tag": "tanaka_aiko_(oyasumi_punpun)"
+        }
+      ],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "harem": [],
+    "cooldowns": {
+      "rw": 1781403787352,
+      "train": 1781400375857,
+      "claim": 1781308742634,
+      "steal": 1781395634318,
+      "fight": 1781401139902
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {
+      "120363426185401970@g.us": [
+        {
+          "personaje": {
+            "nombre": "Pan",
+            "serie": "Dragon Ball",
+            "genero": "Femenino",
+            "valor": 600,
+            "favorito": false,
+            "id": "pan_dragon_ball",
+            "tag": "pan_(dragon_ball)"
+          },
+          "precio": 200000,
+          "vendedor": "51974261945@s.whatsapp.net"
+        }
+      ]
+    },
+    "lastRoll": "Hikigaya",
+    "lastRollTime": 1781403787352,
+    "lastRollGroupId": "120363426185401970@g.us",
+    "dailyStreak": 4,
+    "ultimoCrimen": 1781403706514,
+    "ultimoSlut": 1781403720218,
+    "ultimoMinar": 1781403722206,
+    "ultimoCazar": 1781403735710,
+    "ultimoFish": 1781403730868,
+    "ultimoAdventure": 1781400863977,
+    "ultimaMazmorra": 1781400936243,
+    "racha": 0,
+    "rachaMax": 1,
+    "repDado": {
+      "107361817653361@lid": 1781047793260,
+      "27784898465966@lid": 1781047810087,
+      "5219971043023@s.whatsapp.net": 1781400764477,
+      "51993017848@s.whatsapp.net": 1781218763692,
+      "5219971210742@s.whatsapp.net": 1781218770995,
+      "573042894652@s.whatsapp.net": 1781401164824,
+      "573242239047@s.whatsapp.net": 1781218943370,
+      "573157682235@s.whatsapp.net": 1781400790420
+    },
+    "reputacion": 5,
+    "clanId": "clan_gojo",
+    "favorito": "Onodera Punpun y Aiko Tanaka",
+    "inversion": {
+      "cantidad": 200000,
+      "fecha": 1781400039582
+    }
+  },
+  "50764097378@s.whatsapp.net": {
+    "nombre": "14435888418975",
+    "pushName": "⁠⁠⁫⁪⁭⁮⁯⁪⁫⁬⁭⁮⁯⁪⁫⁬⁭⁮⁯⁪⁫⁬⁭⁮⁯",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 5,
+    "mensajes": 1,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "mensajesSemana": 1
+  },
+  "51993017848@s.whatsapp.net": {
+    "nombre": "196881955192957",
+    "pushName": "Gustavo",
+    "monedas": 0,
+    "banco": 0,
+    "ultimoDiario": 1781303949328,
+    "ultimoTrabajo": 1781128398740,
+    "inventario": {
+      "pocion_exp": 0
+    },
+    "nivel": 7,
+    "experiencia": 285,
+    "mensajes": 477,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "mensajesSemana": 477,
+    "haremGrupo": {
+      "120363426185401970@g.us": [
+        {
+          "nombre": "Satoru Gojo",
+          "serie": "Jujutsu Kaisen",
+          "genero": "Masculino",
+          "valor": 950,
+          "favorito": false,
+          "id": "gojou_satoru",
+          "tag": "gojou_satoru"
+        }
+      ],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "dailyStreak": 3,
+    "contadores": {
+      "diarios": 3,
+      "entrenamientos": 4,
+      "inversiones": 4,
+      "cazados": 2,
+      "combates": 7,
+      "derrotas": 7,
+      "minados": 1,
+      "pescados": 2,
+      "trabajos": 1
+    },
+    "logros": [
+      "primer_saldo",
+      "nocturno",
+      "primer_logro",
+      "rico",
+      "millonario",
+      "multimillonario",
+      "banquero",
+      "inversor",
+      "primer_combate",
+      "primer_trabajo",
+      "comunicador",
+      "aprendiz"
+    ],
+    "harem": [],
+    "cooldowns": {
+      "train": 1781299744995,
+      "fight": 1781127470854,
+      "rw": 1781127706872,
+      "steal": 1781128778743
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {},
+    "stats": {
+      "fuerza": 10,
+      "defensa": 10,
+      "suerte": 10,
+      "xp": 154,
+      "nivel": 2
+    },
+    "inversion": {
+      "cantidad": 1,
+      "fecha": 1781299880455
+    },
+    "ultimoCazar": 1781128155533,
+    "itemsActivos": {},
+    "lastRoll": "Zhongli",
+    "lastRollTime": 1781132383268,
+    "lastRollGroupId": "120363426185401970@g.us",
+    "afk": {
+      "activo": false,
+      "mensaje": "sin razón especificada",
+      "desde": 1781306741360
+    },
+    "ultimoMinar": 1781128141296,
+    "ultimoCrimen": 1781128166154,
+    "ultimoFish": 1781218006623,
+    "ultimoSlut": 1781217993529,
+    "reputacion": 3,
+    "repDado": {
+      "51974261945@s.whatsapp.net": 1781218805148,
+      "573042894652@s.whatsapp.net": 1781218822953,
+      "5219971043023@s.whatsapp.net": 1781218926189,
+      "5219971210742@s.whatsapp.net": 1781218956022,
+      "573242239047@s.whatsapp.net": 1781218971520,
+      "573157682235@s.whatsapp.net": 1781219030336
+    }
+  },
+  "573018864627@s.whatsapp.net": {
+    "nombre": "91341757358335",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "573208271055@s.whatsapp.net": {
+    "monedas": 100000,
+    "harem": [],
+    "cooldowns": {},
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363411494621773@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "ventasGrupo": {}
+  },
+  "50664295123@s.whatsapp.net": {
+    "nombre": "50664295123",
+    "pushName": "𝚗𝚞𝚝𝚜",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363424838963525@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "573146913923@s.whatsapp.net": {
+    "nombre": "573146913923",
+    "pushName": "₴₮ⱧłVɆ₦",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 80,
+    "mensajes": 16,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "mensajesSemana": 16,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "56988165932@s.whatsapp.net": {
+    "nombre": "56988165932",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "5213311106434@s.whatsapp.net": {
+    "nombre": "5213311106434",
+    "pushName": "ElJuaniquilador",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 5,
+    "mensajes": 1,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "mensajesSemana": 1,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "51974926627@s.whatsapp.net": {
+    "nombre": "51974926627",
+    "pushName": "мιкα∂σиσ мιωα",
+    "monedas": 500,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 3,
+    "experiencia": 100,
+    "mensajes": 80,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "mensajesSemana": 80,
+    "racha": 0
+  },
+  "595981724758@s.whatsapp.net": {
+    "nombre": "595981724758",
+    "pushName": "L",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "14073619622@s.whatsapp.net": {
+    "nombre": "14073619622",
+    "pushName": "ジャスメール",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 20,
+    "mensajes": 4,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "mensajesSemana": 4
+  },
+  "5492235063832@s.whatsapp.net": {
+    "nombre": "5492235063832",
+    "pushName": ".",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 25,
+    "mensajes": 5,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "mensajesSemana": 5
+  },
+  "34645653186@s.whatsapp.net": {
+    "nombre": "34645653186",
+    "pushName": "DeJota",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "5217779686118@s.whatsapp.net": {
+    "nombre": "5217779686118",
+    "pushName": "​ディエゴ",
+    "monedas": 0,
+    "banco": 183805,
+    "ultimoDiario": 1781392453858,
+    "ultimoTrabajo": 1781400979740,
+    "inventario": [],
+    "nivel": 5,
+    "experiencia": 340,
+    "mensajes": 268,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [
+        {
+          "nombre": "Narita Taishin",
+          "serie": "Uma Musume: Pretty Derby",
+          "genero": "Femenino",
+          "valor": 1200,
+          "favorito": false,
+          "id": "narita_taishin",
+          "tag": "narita_taishin_(umamusume)"
+        },
+        {
+          "nombre": "Zenitsu",
+          "serie": "Demon Slayer",
+          "genero": "Masculino",
+          "valor": 700,
+          "favorito": false,
+          "id": "agatsuma_zenitsu",
+          "tag": "agatsuma_zenitsu"
+        },
+        {
+          "nombre": "Ilulu",
+          "serie": "Miss Kobayashi Dragon Maid",
+          "genero": "Femenino",
+          "valor": 800,
+          "favorito": false,
+          "id": "ilulu_dragon_maid",
+          "tag": "ilulu_(dragon_maid)"
+        },
+        {
+          "nombre": "Eris",
+          "serie": "Konosuba",
+          "genero": "Femenino",
+          "valor": 900,
+          "favorito": false,
+          "id": "eris_konosuba",
+          "tag": "eris_(konosuba)"
+        },
+        {
+          "nombre": "Cocytus",
+          "serie": "Overlord",
+          "genero": "Masculino",
+          "valor": 1300,
+          "favorito": false,
+          "id": "cocytus_overlord",
+          "tag": "cocytus_(overlord)"
+        }
+      ],
+      "dm": []
+    },
+    "mensajesSemana": 268,
+    "harem": [],
+    "cooldowns": {
+      "rw": 1781402704771,
+      "claim": 1781402284418,
+      "train": 1781401037371
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {},
+    "lastRoll": "Mugino Shizuri",
+    "lastRollTime": 1781402704771,
+    "lastRollGroupId": "120363409460222487@g.us",
+    "dailyStreak": 1,
+    "contadores": {
+      "diarios": 1,
+      "trabajos": 3,
+      "crimenesOK": 4,
+      "minados": 4,
+      "pescados": 4,
+      "mazmorrasOK": 2,
+      "inversiones": 1,
+      "aventurasOK": 3,
+      "cazados": 3,
+      "apuestasGanadas": 6,
+      "coinflipGanados": 6,
+      "ganadosTrivia": 16,
+      "entrenamientos": 3,
+      "misionesSemanalesOK": 2,
+      "prestamosOK": 1,
+      "misionesOK": 1
+    },
+    "logros": [
+      "primer_saldo",
+      "primer_logro",
+      "primer_trabajo",
+      "primer_crimen",
+      "rico",
+      "dueño",
+      "inversor",
+      "apostador",
+      "comunicador",
+      "nocturno",
+      "sabio",
+      "aprendiz",
+      "millonario",
+      "prestamista",
+      "banquero"
+    ],
+    "ultimoSlut": 1781400985315,
+    "ultimoCrimen": 1781400999059,
+    "ultimoAdoptar": 1781392719546,
+    "mascota": {
+      "nombre": "Genesect",
+      "especie": "Genesect",
+      "especiePokeId": 649,
+      "tipos": [
+        "bug",
+        "steel"
+      ],
+      "rareza": "Mítico ✨",
+      "rarezaColor": "🟡",
+      "emoji": "⚡",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+      "nivel": 1,
+      "exp": 0,
+      "felicidad": 100,
+      "hambre": 100,
+      "ultimoAlimento": 1781392719546,
+      "ultimoJuego": 1781392719546
+    },
+    "racha": 1,
+    "ultimoMinar": 1781401023849,
+    "ultimoFish": 1781401003785,
+    "ultimaMazmorra": 1781401093149,
+    "inversion": {
+      "cantidad": 10000,
+      "fecha": 1781393467672
+    },
+    "ultimoAdventure": 1781401008249,
+    "ultimoCazar": 1781397477974,
+    "rachaMax": 2,
+    "prestamo": {
+      "cantidad": 0,
+      "deuda": 0,
+      "fecha": 0
+    },
+    "stats": {
+      "fuerza": 10,
+      "defensa": 10,
+      "suerte": 10,
+      "xp": 78,
+      "nivel": 1
+    },
+    "misiones": {
+      "dia": 20618,
+      "lista": [
+        "train3",
+        "trivia3",
+        "fight2"
+      ],
+      "progreso": {},
+      "reclamadas": [
+        "trivia3"
+      ],
+      "snapshot": {
+        "trabajos": 2,
+        "robosExitosos": 0,
+        "apuestasGanadas": 1,
+        "ganadosTrivia": 2,
+        "ganadosMath": 0,
+        "victorias": 0,
+        "entrenamientos": 1,
+        "crimenesOK": 3,
+        "diarios": 1,
+        "victoriasBJ": 0,
+        "slotsJugados": 0
+      }
+    },
+    "misionesSemanales": {
+      "semana": 2945,
+      "lista": [
+        "sw_coinflip5",
+        "sw_trivia10",
+        "sw_daily5"
+      ],
+      "reclamadas": [
+        "sw_coinflip5",
+        "sw_trivia10"
+      ],
+      "snapshot": {
+        "trabajos": 2,
+        "robosExitosos": 0,
+        "apuestasGanadas": 1,
+        "victorias": 0,
+        "crimenesOK": 3,
+        "ganadosTrivia": 5,
+        "diarios": 1,
+        "entrenamientos": 1,
+        "victoriasBJ": 0,
+        "slotsJugados": 0,
+        "coinflipGanados": 1,
+        "repRecibida": 0
+      }
+    }
+  },
+  "573332578588@s.whatsapp.net": {
+    "nombre": "573332578588",
+    "pushName": "Poland :3",
+    "monedas": 0,
+    "banco": 27758,
+    "ultimoDiario": 1781393902954,
+    "ultimoTrabajo": 1781393925906,
+    "inventario": [],
+    "nivel": 2,
+    "experiencia": 5,
+    "mensajes": 21,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "harem": [],
+    "cooldowns": {
+      "rw": 1781392590950
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {},
+    "lastRoll": "Vanessa",
+    "lastRollTime": 1781392590950,
+    "lastRollGroupId": "120363409460222487@g.us",
+    "mensajesSemana": 21,
+    "dailyStreak": 1,
+    "contadores": {
+      "diarios": 1,
+      "trabajos": 1,
+      "crimenesOK": 1,
+      "minados": 1,
+      "apuestasGanadas": 2,
+      "coinflipGanados": 2
+    },
+    "logros": [
+      "primer_saldo",
+      "primer_logro",
+      "primer_trabajo",
+      "primer_crimen",
+      "rico",
+      "apostador"
+    ],
+    "ultimoCrimen": 1781393931638,
+    "ultimoMinar": 1781393936001,
+    "ultimoSlut": 1781393940340
+  },
+  "56956461451@s.whatsapp.net": {
+    "nombre": "56956461451",
+    "pushName": "𝑀𝑎𝑦 '",
+    "monedas": 5967,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": 1781402281731,
+    "inventario": [],
+    "nivel": 2,
+    "experiencia": 175,
+    "mensajes": 55,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "harem": [],
+    "cooldowns": {
+      "rw": 1781402290970
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {},
+    "lastRoll": "Pitohui",
+    "lastRollTime": 1781402290970,
+    "lastRollGroupId": "120363409460222487@g.us",
+    "mensajesSemana": 55,
+    "racha": 0,
+    "contadores": {
+      "trabajos": 2,
+      "crimenesOK": 1
+    },
+    "logros": [
+      "primer_saldo",
+      "primer_trabajo",
+      "madrugador",
+      "primer_logro",
+      "nocturno",
+      "primer_crimen"
+    ],
+    "ultimoSlut": 1781402287781,
+    "ultimoCrimen": 1781402292581
+  },
+  "573052249731@s.whatsapp.net": {
+    "nombre": "573052249731",
+    "pushName": "Tom",
+    "monedas": 0,
+    "banco": 17220,
+    "ultimoDiario": 1781398103532,
+    "ultimoTrabajo": 1781398120470,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 40,
+    "mensajes": 8,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "mensajesSemana": 8,
+    "dailyStreak": 1,
+    "contadores": {
+      "diarios": 1,
+      "trabajos": 1,
+      "minados": 1,
+      "apuestasGanadas": 1,
+      "ruletasGanadas": 1
+    },
+    "logros": [
+      "primer_saldo",
+      "nocturno",
+      "primer_logro",
+      "primer_trabajo",
+      "rico",
+      "apostador"
+    ],
+    "ultimoMinar": 1781398125984,
+    "ultimoSlut": 1781398129941,
+    "ultimoCrimen": 1781398133808
+  },
+  "2348069185825@s.whatsapp.net": {
+    "nombre": "2348069185825",
+    "pushName": "miracle",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "5218701464746@s.whatsapp.net": {
+    "nombre": "5218701464746",
+    "pushName": "Nozo",
+    "monedas": 0,
+    "banco": 0,
+    "ultimoDiario": 1781323588922,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 2,
+    "experiencia": 70,
+    "mensajes": 34,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "harem": [],
+    "cooldowns": {
+      "rw": 1781325224043
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {},
+    "mensajesSemana": 34,
+    "lastRoll": "Otonashi",
+    "lastRollTime": 1781325224043,
+    "lastRollGroupId": "120363409460222487@g.us",
+    "dailyStreak": 1,
+    "contadores": {
+      "diarios": 1,
+      "apuestasGanadas": 1,
+      "coinflipGanados": 1,
+      "minados": 1,
+      "pescados": 1,
+      "cazados": 1
+    },
+    "logros": [
+      "primer_saldo",
+      "madrugador",
+      "primer_logro",
+      "apostador",
+      "rico"
+    ],
+    "ultimoMinar": 1781323929202,
+    "ultimoAdventure": 1781323951863,
+    "ultimaMazmorra": 1781323986933,
+    "ultimoFish": 1781324010604,
+    "ultimoCazar": 1781324044552,
+    "racha": 0
+  },
+  "18492221318@s.whatsapp.net": {
+    "nombre": "18492221318",
+    "pushName": "🌹",
+    "monedas": 0,
+    "banco": 1608,
+    "ultimoDiario": 1781393785120,
+    "ultimoTrabajo": 1781393826904,
+    "inventario": [],
+    "nivel": 2,
+    "experiencia": 45,
+    "mensajes": 29,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "mensajesSemana": 29,
+    "dailyStreak": 1,
+    "contadores": {
+      "diarios": 1,
+      "crimenesOK": 1,
+      "trabajos": 1,
+      "aventurasOK": 1,
+      "pescados": 1,
+      "minados": 1,
+      "cazados": 1,
+      "apuestasGanadas": 6,
+      "coinflipGanados": 6
+    },
+    "logros": [
+      "primer_saldo",
+      "primer_logro",
+      "primer_crimen",
+      "primer_trabajo",
+      "rico",
+      "apostador",
+      "millonario"
+    ],
+    "ultimoCrimen": 1781393801362,
+    "ultimoAdventure": 1781393842164,
+    "ultimoFish": 1781393854779,
+    "ultimoSlut": 1781393857454,
+    "ultimoMinar": 1781393863715,
+    "ultimoCazar": 1781393867996,
+    "ultimaMazmorra": 1781393906269,
+    "harem": [],
+    "cooldowns": {
+      "rw": 1781393999499
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {},
+    "lastRoll": "Lisbeth",
+    "lastRollTime": 1781393999499,
+    "lastRollGroupId": "120363409460222487@g.us"
+  },
+  "51970006624@s.whatsapp.net": {
+    "nombre": "51970006624",
+    "pushName": "𝙽𝚒𝚡ツ",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "5493725549837@s.whatsapp.net": {
+    "nombre": "5493725549837",
+    "pushName": "axel",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 45,
+    "mensajes": 9,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "mensajesSemana": 9,
+    "cooldowns": {
+      "train": 1781397255173
+    },
+    "stats": {
+      "fuerza": 10,
+      "defensa": 10,
+      "suerte": 10,
+      "xp": 10,
+      "nivel": 1
+    },
+    "contadores": {
+      "entrenamientos": 1
+    },
+    "logros": [
+      "primer_saldo",
+      "nocturno",
+      "primer_logro"
+    ]
+  },
+  "51942771483@s.whatsapp.net": {
+    "nombre": "51942771483",
+    "pushName": "卍下πaƞḱⲹ_ᗩ卍",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "51929445939@s.whatsapp.net": {
+    "nombre": "51929445939",
+    "pushName": "Jesús Martin 👻🤍✨🙌",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    }
+  },
+  "34640761335@s.whatsapp.net": {
+    "nombre": "34640761335",
+    "pushName": "xwz",
+    "monedas": 0,
+    "banco": 3140,
+    "ultimoDiario": 1781399977386,
+    "ultimoTrabajo": 1781399945868,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 45,
+    "mensajes": 9,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "mensajesSemana": 9,
+    "contadores": {
+      "trabajos": 1,
+      "crimenesOK": 1,
+      "diarios": 1
+    },
+    "logros": [
+      "primer_saldo",
+      "primer_trabajo",
+      "nocturno",
+      "primer_logro",
+      "primer_crimen"
+    ],
+    "ultimoCrimen": 1781399948454,
+    "ultimoSlut": 1781399960341,
+    "dailyStreak": 1
+  },
+  "5492995934914@s.whatsapp.net": {
+    "nombre": "5492995934914",
+    "pushName": "𝐑𝐞𝐝𝐛𝐮𝐥𝐥 𝐁𝐨𝐲 🏎️✝️",
+    "monedas": 1653,
+    "banco": 0,
+    "ultimoDiario": 1781324535027,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 3,
+    "experiencia": 30,
+    "mensajes": 66,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": [],
+      "dm": []
+    },
+    "mensajesSemana": 66,
+    "harem": [],
+    "cooldowns": {
+      "rw": 1781324487181
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {},
+    "lastRoll": "All Might",
+    "lastRollTime": 1781324487181,
+    "lastRollGroupId": "120363409460222487@g.us",
+    "dailyStreak": 1,
+    "contadores": {
+      "diarios": 1
+    },
+    "logros": [
+      "primer_saldo",
+      "madrugador",
+      "primer_logro"
+    ]
+  },
+  "573142909708@s.whatsapp.net": {
+    "nombre": "573142909708",
+    "pushName": "liam",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "dm": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "584220806989@s.whatsapp.net": {
+    "nombre": "584220806989",
+    "pushName": "leo",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "dm": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "2348158378237@s.whatsapp.net": {
+    "nombre": "2348158378237",
+    "pushName": "~~Alena Ventas Nass",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 5,
+    "mensajes": 1,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "mensajesSemana": 1,
+    "haremGrupo": {
+      "dm": [],
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "573217564989@s.whatsapp.net": {
+    "nombre": "573217564989",
+    "pushName": "Cz",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 10,
+    "mensajes": 2,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    },
+    "mensajesSemana": 2,
+    "harem": [],
+    "cooldowns": {
+      "rw": 1781325344481
+    },
+    "claimMsg": null,
+    "ventas": [],
+    "votosPersonaje": {},
+    "ventasGrupo": {},
+    "lastRoll": "Elsa",
+    "lastRollTime": 1781325344481,
+    "lastRollGroupId": "120363409460222487@g.us"
+  },
+  "59175589442@s.whatsapp.net": {
+    "nombre": "59175589442",
+    "pushName": "Elron Peanos",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "573242441107@s.whatsapp.net": {
+    "nombre": "573242441107",
+    "pushName": "dilan",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "51947782929@s.whatsapp.net": {
+    "nombre": "51947782929",
+    "pushName": "idk",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "819070667321@s.whatsapp.net": {
+    "nombre": "819070667321",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363409460222487@g.us": [],
+      "120363426185401970@g.us": []
+    }
+  },
+  "5491138988531@s.whatsapp.net": {
+    "nombre": "5491138988531",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363409460222487@g.us": [],
+      "120363426185401970@g.us": []
+    }
+  },
+  "56922400053@s.whatsapp.net": {
+    "nombre": "56922400053",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "59173732018@s.whatsapp.net": {
+    "nombre": "59173732018",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "573008683541@s.whatsapp.net": {
+    "nombre": "573008683541",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "59174105625@s.whatsapp.net": {
+    "nombre": "59174105625",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "16136047298@s.whatsapp.net": {
+    "nombre": "16136047298",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "573001298475@s.whatsapp.net": {
+    "nombre": "573001298475",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "584265969218@s.whatsapp.net": {
+    "nombre": "584265969218",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "5492634407072@s.whatsapp.net": {
+    "nombre": "5492634407072",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "5217641321799@s.whatsapp.net": {
+    "nombre": "5217641321799",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "19565361656@s.whatsapp.net": {
+    "nombre": "19565361656",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "59167502482@s.whatsapp.net": {
+    "nombre": "59167502482",
+    "pushName": "ị-⃟🔮⃟⃟✍️⃟】мс【⃟⛩️⃟☯️⃟.li/",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "584246660854@s.whatsapp.net": {
+    "nombre": "584246660854",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "584120590690@s.whatsapp.net": {
+    "nombre": "584120590690",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "573248897332@s.whatsapp.net": {
+    "nombre": "573248897332",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "573209440791@s.whatsapp.net": {
+    "nombre": "573209440791",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "18495253982@s.whatsapp.net": {
+    "nombre": "18495253982",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "51950985781@s.whatsapp.net": {
+    "nombre": "51950985781",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "573044280472@s.whatsapp.net": {
+    "nombre": "573044280472",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "595983027027@s.whatsapp.net": {
+    "nombre": "595983027027",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "573115566062@s.whatsapp.net": {
+    "nombre": "573115566062",
+    "pushName": "Yisus",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "5493415966927@s.whatsapp.net": {
+    "nombre": "5493415966927",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "5213348604905@s.whatsapp.net": {
+    "nombre": "5213348604905",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "573248886945@s.whatsapp.net": {
+    "nombre": "573248886945",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "34626919099@s.whatsapp.net": {
+    "nombre": "34626919099",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "56967246636@s.whatsapp.net": {
+    "nombre": "56967246636",
+    "pushName": "Vicente",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "stats": {
+      "fuerza": 10,
+      "defensa": 10,
+      "suerte": 10,
+      "xp": 0,
+      "nivel": 1
+    },
+    "itemsActivos": {},
+    "contadores": {
+      "combates": 1,
+      "derrotas": 1
+    },
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "50496877408@s.whatsapp.net": {
+    "nombre": "50496877408",
+    "pushName": "Crucito😎",
+    "monedas": 400,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 2,
+    "experiencia": 25,
+    "mensajes": 25,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "mensajesSemana": 25,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "5359354232@s.whatsapp.net": {
+    "nombre": "5359354232",
+    "pushName": "🌸🌷𝐊𝐄𝐘𝐋𝐀🌷🌸",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "256379868680306": {
+    "nombre": "256379868680306",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "256379868680306@s.whatsapp.net": {
+    "nombre": "256379868680306",
+    "pushName": null,
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "584269172013@s.whatsapp.net": {
+    "nombre": "584269172013",
+    "pushName": "manu",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "51947700676@s.whatsapp.net": {
+    "nombre": "51947700676",
+    "pushName": ".𝒥𝒽𝒶𝓂𝓅𝒾ℯ𝓇",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 0,
+    "mensajes": 0,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "573212152939@s.whatsapp.net": {
+    "nombre": "573212152939",
+    "pushName": "Diego",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 5,
+    "mensajes": 1,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "mensajesSemana": 1,
+    "haremGrupo": {
+      "120363426185401970@g.us": [],
+      "120363409460222487@g.us": []
+    }
+  },
+  "2348138688715@s.whatsapp.net": {
+    "nombre": "2348138688715",
+    "pushName": "VANCARCLONE",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 20,
+    "mensajes": 4,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "haremGrupo": {
+      "120363409460222487@g.us": [],
+      "120363426185401970@g.us": []
+    },
+    "mensajesSemana": 4,
+    "racha": 0
+  },
+  "50237720610@s.whatsapp.net": {
+    "nombre": "50237720610",
+    "pushName": "𝓔𝓶𝓶𝓪.𝓚𝓲𝓶",
+    "monedas": 200,
+    "banco": 0,
+    "ultimoDiario": null,
+    "ultimoTrabajo": null,
+    "inventario": [],
+    "nivel": 1,
+    "experiencia": 80,
+    "mensajes": 16,
+    "pareja": null,
+    "parejaNombre": null,
+    "cumpleanos": null,
+    "genero": null,
+    "descripcion": null,
+    "advertencias": 0,
+    "mensajesSemana": 16,
+    "haremGrupo": {
+      "120363409460222487@g.us": [],
+      "120363426185401970@g.us": []
+    }
+  }
+}

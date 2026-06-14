@@ -1,0 +1,27 @@
+{
+  "clan_gojo": {
+    "nombre": "clan gojo",
+    "lider": "573042894652@s.whatsapp.net",
+    "miembros": [
+      "573042894652@s.whatsapp.net",
+      "27784898465966@lid",
+      "107361817653361@lid",
+      "36271669956849@lid",
+      "40751287291917@lid"
+    ],
+    "oficiales": [
+      "27784898465966@lid"
+    ],
+    "xp": 0,
+    "nivel": 1,
+    "descripcion": null,
+    "fotoUrl": "/home/runner/workspace/data/clan_fotos/clan_gojo.jpg",
+    "banco": 0,
+    "logBanco": [],
+    "ultimaGuerra": null,
+    "guerrasGanadas": 0,
+    "guerrasTotales": 0,
+    "creado": 1781047720717,
+    "solicitudes": []
+  }
+}

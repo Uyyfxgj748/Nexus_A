@@ -1,0 +1,14 @@
+node_modules
+auth_info
+.bot.pid
+
+# Backups generados automáticamente
+data/backups/
+
+# Fotos de clanes subidas por usuarios
+data/clan_fotos/
+
+# Logs de errores
+data/errors.log
+data/lid_map.json
+data/pinterest_token.json

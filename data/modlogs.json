@@ -1,0 +1,69 @@
+{
+  "120363426185401970@g.us": [
+    {
+      "ts": 1781349899933,
+      "adminJid": "573042894652@s.whatsapp.net",
+      "accion": "tempban",
+      "objetivoJid": "573223484308@s.whatsapp.net",
+      "extra": "30d"
+    },
+    {
+      "ts": 1781312144565,
+      "adminJid": "573042894652@s.whatsapp.net",
+      "accion": "tempban",
+      "objetivoJid": "2348158378237@s.whatsapp.net",
+      "extra": "30d"
+    },
+    {
+      "ts": 1781295270955,
+      "adminJid": "573042894652@s.whatsapp.net",
+      "accion": "unmutebot",
+      "objetivoJid": "573208294851@s.whatsapp.net",
+      "extra": ""
+    },
+    {
+      "ts": 1781295202463,
+      "adminJid": "573042894652@s.whatsapp.net",
+      "accion": "mutebot",
+      "objetivoJid": "573208294851@s.whatsapp.net",
+      "extra": ""
+    },
+    {
+      "ts": 1781046874663,
+      "adminJid": "573042894652@s.whatsapp.net",
+      "accion": "unmutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1781046726858,
+      "adminJid": "573042894652@s.whatsapp.net",
+      "accion": "mutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1781039023540,
+      "adminJid": "573042894652@s.whatsapp.net",
+      "accion": "unmutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    },
+    {
+      "ts": 1781038982902,
+      "adminJid": "573042894652@s.whatsapp.net",
+      "accion": "mutebot",
+      "objetivoJid": "40751287291917@lid",
+      "extra": ""
+    }
+  ],
+  "120363409460222487@g.us": [
+    {
+      "ts": 1781396737925,
+      "adminJid": "5492995934914@s.whatsapp.net",
+      "accion": "kick",
+      "objetivoJid": "2348138688715@s.whatsapp.net",
+      "extra": ""
+    }
+  ]
+}
