@@ -1,0 +1,340 @@
+{
+  "clan_gojo": {
+    "nombre": "clan gojo",
+    "lider": "573042894652@s.whatsapp.net",
+    "miembros": [
+      "573042894652@s.whatsapp.net",
+      "27784898465966@lid",
+      "107361817653361@lid",
+      "36271669956849@lid",
+      "40751287291917@lid",
+      "5214442873429@s.whatsapp.net"
+    ],
+    "oficiales": [
+      "27784898465966@lid"
+    ],
+    "xp": 1050,
+    "nivel": 3,
+    "descripcion": null,
+    "fotoUrl": "/home/runner/workspace/data/clan_fotos/clan_gojo.jpg",
+    "banco": 0,
+    "logBanco": [],
+    "ultimaGuerra": 1782091351679,
+    "guerrasGanadas": 16,
+    "guerrasTotales": 16,
+    "creado": 1781047720717,
+    "solicitudes": [
+      "5217779686118@s.whatsapp.net"
+    ]
+  },
+  "granada": {
+    "nombre": "Granada",
+    "lider": "34645653186@s.whatsapp.net",
+    "miembros": [
+      "34645653186@s.whatsapp.net"
+    ],
+    "oficiales": [],
+    "xp": 550,
+    "nivel": 2,
+    "descripcion": null,
+    "fotoUrl": null,
+    "banco": 0,
+    "logBanco": [
+      {
+        "tipo": "dep",
+        "cantidad": 150000,
+        "quien": "DeJota",
+        "fecha": 1781643636319
+      },
+      {
+        "tipo": "ret",
+        "cantidad": 150000,
+        "quien": "DeJota",
+        "fecha": 1781655081906
+      }
+    ],
+    "ultimaGuerra": 1781626809496,
+    "guerrasGanadas": 1,
+    "guerrasTotales": 4,
+    "creado": 1781460581319
+  },
+  "lavadora": {
+    "nombre": "lavadora",
+    "lider": "573157682235@s.whatsapp.net",
+    "miembros": [
+      "573157682235@s.whatsapp.net"
+    ],
+    "oficiales": [],
+    "xp": 50,
+    "nivel": 1,
+    "descripcion": null,
+    "fotoUrl": "/home/runner/workspace/data/clan_fotos/lavadora.jpg",
+    "banco": 0,
+    "logBanco": [],
+    "ultimaGuerra": 1781656399015,
+    "guerrasGanadas": 1,
+    "guerrasTotales": 28,
+    "creado": 1781460676802
+  },
+  "damon_salvatore": {
+    "nombre": "Damon Salvatore",
+    "lider": "5359354232@s.whatsapp.net",
+    "miembros": [
+      "5359354232@s.whatsapp.net"
+    ],
+    "oficiales": [],
+    "xp": 1250,
+    "nivel": 3,
+    "descripcion": null,
+    "fotoUrl": "/home/runner/workspace/data/clan_fotos/damon_salvatore.jpg",
+    "banco": 390000,
+    "logBanco": [
+      {
+        "tipo": "dep",
+        "cantidad": 140000,
+        "quien": "🌸🌷𝐊𝐄𝐘𝐋𝐀🌷🌸",
+        "fecha": 1781588775634
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 130000,
+        "quien": "🌸🌷🅚︎🅔︎🅨︎🅛︎🅐︎🌷🌸",
+        "fecha": 1781723657193
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 120000,
+        "quien": "🌸🌷🅚︎🅔︎🅨︎🅛︎🅐︎🌷🌸",
+        "fecha": 1781723685996
+      }
+    ],
+    "ultimaGuerra": 1782065459575,
+    "guerrasGanadas": 7,
+    "guerrasTotales": 14,
+    "creado": 1781552016614,
+    "solicitudes": []
+  },
+  "~los_polacos~": {
+    "nombre": "~Los Polacos~",
+    "lider": "573052249731@s.whatsapp.net",
+    "miembros": [
+      "573052249731@s.whatsapp.net",
+      "573332578588@s.whatsapp.net"
+    ],
+    "oficiales": [
+      "573332578588@s.whatsapp.net"
+    ],
+    "xp": 400,
+    "nivel": 4,
+    "descripcion": "𝑄𝑢𝑖𝑒𝑟𝑒 𝑒𝑠𝑡𝑒 𝑐𝑙𝑎𝑛 𝑐𝑜𝑚𝑜 𝑠𝑖 𝑓𝑢𝑒𝑟𝑎 𝑡𝑢 𝑐𝑖𝑢𝑑𝑎𝑑🇵🇱❤️",
+    "fotoUrl": "/home/runner/workspace/data/clan_fotos/~los_polacos~.jpg",
+    "banco": 160000,
+    "logBanco": [
+      {
+        "tipo": "dep",
+        "cantidad": 100000,
+        "quien": "Tom",
+        "fecha": 1781554190188
+      },
+      {
+        "tipo": "ret",
+        "cantidad": 100000,
+        "quien": "Tom",
+        "fecha": 1781562219766
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 21000,
+        "quien": "Tom",
+        "fecha": 1781587983812
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 30000,
+        "quien": "​ディエゴ",
+        "fecha": 1781588084110
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 30000,
+        "quien": "​ディエゴ",
+        "fecha": 1781588688436
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 34000,
+        "quien": "Poland :3",
+        "fecha": 1781589241264
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 65000,
+        "quien": "Tom",
+        "fecha": 1781640842026
+      },
+      {
+        "tipo": "ret",
+        "cantidad": 100000,
+        "quien": "Poland :3",
+        "fecha": 1781730517426
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 100000,
+        "quien": "Poland :3",
+        "fecha": 1781730629486
+      },
+      {
+        "tipo": "ret",
+        "cantidad": 100000,
+        "quien": "Poland :3",
+        "fecha": 1781757730184
+      },
+      {
+        "tipo": "ret",
+        "cantidad": 80000,
+        "quien": "Poland :3",
+        "fecha": 1781757792033
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 13000,
+        "quien": "Poland :3",
+        "fecha": 1782049338753
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 17000,
+        "quien": "Poland :3",
+        "fecha": 1782065153391
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 100000,
+        "quien": "Tom",
+        "fecha": 1782066070954
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 30000,
+        "quien": "Poland :3",
+        "fecha": 1782090633754
+      }
+    ],
+    "ultimaGuerra": 1782090498145,
+    "guerrasGanadas": 11,
+    "guerrasTotales": 24,
+    "creado": 1781552601007,
+    "solicitudes": []
+  },
+  "peliagudos": {
+    "nombre": "peliagudos",
+    "lider": "5217779686118@s.whatsapp.net",
+    "miembros": [
+      "5217779686118@s.whatsapp.net",
+      "34645653186@s.whatsapp.net",
+      "5217773372075@s.whatsapp.net",
+      "34640761335@s.whatsapp.net"
+    ],
+    "oficiales": [
+      "34645653186@s.whatsapp.net",
+      "5217773372075@s.whatsapp.net"
+    ],
+    "xp": 600,
+    "nivel": 5,
+    "descripcion": null,
+    "fotoUrl": "/home/runner/workspace/data/clan_fotos/peliagudos.jpg",
+    "banco": 800000,
+    "logBanco": [
+      {
+        "tipo": "dep",
+        "cantidad": 100000,
+        "quien": "​ディエゴ",
+        "fecha": 1781589389405
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 40000,
+        "quien": "​ディエゴ",
+        "fecha": 1781590587102
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 30000,
+        "quien": "​ディエゴ",
+        "fecha": 1781629728973
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 100000,
+        "quien": "DeJota",
+        "fecha": 1781655494722
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 30000,
+        "quien": "​ディエゴ",
+        "fecha": 1781655537455
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 50000,
+        "quien": "​ディエゴ",
+        "fecha": 1781725438148
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 80000,
+        "quien": "DeJota",
+        "fecha": 1781725519461
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 70000,
+        "quien": "ᥫ親⃢友 ⸻ ࿐",
+        "fecha": 1781733048492
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 100000,
+        "quien": "DeJota",
+        "fecha": 1781789343019
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 100000,
+        "quien": "​ディエゴ",
+        "fecha": 1781799790754
+      },
+      {
+        "tipo": "dep",
+        "cantidad": 100000,
+        "quien": "ᥫ親⃢友 ⸻ ࿐",
+        "fecha": 1781800251023
+      }
+    ],
+    "ultimaGuerra": 1782077810815,
+    "guerrasGanadas": 16,
+    "guerrasTotales": 17,
+    "creado": 1781589171223,
+    "solicitudes": []
+  },
+  "los_viltrumitas": {
+    "nombre": "los viltrumitas",
+    "lider": "5492995934914@s.whatsapp.net",
+    "miembros": [
+      "5492995934914@s.whatsapp.net"
+    ],
+    "oficiales": [],
+    "xp": 0,
+    "nivel": 1,
+    "descripcion": null,
+    "fotoUrl": null,
+    "banco": 0,
+    "logBanco": [],
+    "ultimaGuerra": null,
+    "guerrasGanadas": 0,
+    "guerrasTotales": 1,
+    "creado": 1781629555488
+  }
+}

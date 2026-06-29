@@ -1,0 +1,39 @@
+{
+  "120363409460222487@g.us": [
+    {
+      "ts": 1782606846164,
+      "adminJid": "5492995934914@s.whatsapp.net",
+      "accion": "kick",
+      "objetivoJid": "6283845962598@s.whatsapp.net",
+      "extra": ""
+    },
+    {
+      "ts": 1782515935934,
+      "adminJid": "34645653186@s.whatsapp.net",
+      "accion": "kick",
+      "objetivoJid": "573332578588@s.whatsapp.net",
+      "extra": ""
+    },
+    {
+      "ts": 1782508024732,
+      "adminJid": "5492995934914@s.whatsapp.net",
+      "accion": "kick",
+      "objetivoJid": "5493517521132@s.whatsapp.net",
+      "extra": ""
+    },
+    {
+      "ts": 1782339306415,
+      "adminJid": "5492995944623@s.whatsapp.net",
+      "accion": "kick",
+      "objetivoJid": "18492221318@s.whatsapp.net",
+      "extra": ""
+    },
+    {
+      "ts": 1782339242070,
+      "adminJid": "5492995944623@s.whatsapp.net",
+      "accion": "kick",
+      "objetivoJid": "18495253982@s.whatsapp.net",
+      "extra": ""
+    }
+  ]
+}

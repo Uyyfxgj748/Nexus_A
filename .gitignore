@@ -1,0 +1,17 @@
+node_modules
+auth_info
+.bot.pid
+
+# Backups generados automáticamente (pueden ser grandes)
+data/backups/
+
+# Fotos de clanes subidas por usuarios
+data/clan_fotos/
+
+# Archivos técnicos/tokens — no subir nunca
+data/errors.log
+data/lid_map.json
+data/pinterest_token.json
+
+# Cookies de sesión de cuentas externas
+cookies/
