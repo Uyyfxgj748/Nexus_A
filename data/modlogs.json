@@ -1,0 +1,73 @@
+{
+  "120363409460222487@g.us": [
+    {
+      "ts": 1782606846164,
+      "adminJid": "5492995934914@s.whatsapp.net",
+      "accion": "kick",
+      "objetivoJid": "6283845962598@s.whatsapp.net",
+      "extra": ""
+    },
+    {
+      "ts": 1782515935934,
+      "adminJid": "34645653186@s.whatsapp.net",
+      "accion": "kick",
+      "objetivoJid": "573332578588@s.whatsapp.net",
+      "extra": ""
+    },
+    {
+      "ts": 1782508024732,
+      "adminJid": "5492995934914@s.whatsapp.net",
+      "accion": "kick",
+      "objetivoJid": "5493517521132@s.whatsapp.net",
+      "extra": ""
+    },
+    {
+      "ts": 1782339306415,
+      "adminJid": "5492995944623@s.whatsapp.net",
+      "accion": "kick",
+      "objetivoJid": "18492221318@s.whatsapp.net",
+      "extra": ""
+    },
+    {
+      "ts": 1782339242070,
+      "adminJid": "5492995944623@s.whatsapp.net",
+      "accion": "kick",
+      "objetivoJid": "18495253982@s.whatsapp.net",
+      "extra": ""
+    }
+  ],
+  "120363426185401970@g.us": [
+    {
+      "ts": 1783873267054,
+      "adminJid": "573042894652@s.whatsapp.net",
+      "accion": "kick",
+      "objetivoJid": "573216924284@s.whatsapp.net",
+      "extra": ""
+    },
+    {
+      "ts": 1783388976631,
+      "adminJid": "573157682235@s.whatsapp.net",
+      "accion": "warn",
+      "objetivoJid": "573216924284@s.whatsapp.net",
+      "extra": "mandar sticker H"
+    }
+  ],
+  "120363408018424745@g.us": [
+    {
+      "ts": 1783631052420,
+      "adminJid": "573502396151@s.whatsapp.net",
+      "accion": "kick",
+      "objetivoJid": "573237069673@s.whatsapp.net",
+      "extra": ""
+    }
+  ],
+  "120363428590982043@g.us": [
+    {
+      "ts": 1784089419544,
+      "adminJid": "573157682235@s.whatsapp.net",
+      "accion": "mutebot",
+      "objetivoJid": "573007793554@s.whatsapp.net",
+      "extra": ""
+    }
+  ]
+}

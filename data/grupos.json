@@ -1,0 +1,392 @@
+{
+  "120363424838963525@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "chatHabilitado": true,
+    "nsfw": true,
+    "tagMode": "admins",
+    "gachaOn": true,
+    "economyOn": false,
+    "antilink": false
+  },
+  "120363426185401970@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "chatHabilitado": true,
+    "botActivo": true,
+    "mutedUsers": [],
+    "mutedExpiry": {},
+    "botPrimario": "573157682235@s.whatsapp.net",
+    "tagMode": "admins",
+    "anunciosNivel": false,
+    "warns": {
+      "573216924284@s.whatsapp.net": 1
+    }
+  },
+  "120363411494621773@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "chatHabilitado": true,
+    "nsfw": false
+  },
+  "202207764951281@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "chatHabilitado": true
+  },
+  "120363427661856982@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "chatHabilitado": true
+  },
+  "120363427003478207@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true
+  },
+  "120363409460222487@g.us": {
+    "bienvenida": true,
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "chatHabilitado": true,
+    "nsfw": true,
+    "antilink": false,
+    "botPrimario": "573237069673@s.whatsapp.net",
+    "anunciosNivel": false,
+    "botActivo": true,
+    "welcomeMedia": {
+      "tipo": "image",
+      "path": "/home/runner/workspace/data/images/welcome_120363409460222487_g_us.jpg"
+    },
+    "welcomeImagePath": "/home/runner/workspace/data/images/welcome_120363409460222487_g_us.jpg",
+    "mensajeBienvenida": "\n> Nexus bot te da la bienvenida a *The DRS coffee zone 🏎️☕*\n\n👋!!Bienvenido a @⁨ nuestro grupo!! 👋\nEspero que disfrutes y puedas socializar en nuestro grupo!! \n\n(Lee o trata de leer nuestras reglas, gracias!! 🫂)"
+  },
+  "15359490916408@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true
+  },
+  "48206780047406@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "120363409356516307@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true,
+    "chatHabilitado": true,
+    "nsfw": true
+  },
+  "137993255964784@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "120363198641161536@newsletter": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "98608858816545@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "256379868680306@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "120363427480466369@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true,
+    "chatHabilitado": true,
+    "nsfw": false
+  },
+  "230361325904038@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "138302845903050@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "143825737629729@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "120363405337421441@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true,
+    "chatHabilitado": true
+  },
+  "120363408018424745@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true,
+    "chatHabilitado": true
+  },
+  "120363412345833113@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "120363320570476523@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true,
+    "chatHabilitado": true
+  },
+  "120363246811678684@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "120363428037846590@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "120363381108503982@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true,
+    "chatHabilitado": true,
+    "nsfw": false
+  },
+  "64060209025062@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true,
+    "chatHabilitado": true
+  },
+  "120363426726248065@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true,
+    "chatHabilitado": true
+  },
+  "120363396476889468@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "120363400052672961@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "120363428590982043@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true,
+    "chatHabilitado": true,
+    "tagMode": "admins",
+    "mutedUsers": [
+      "573007793554@s.whatsapp.net"
+    ],
+    "mutedExpiry": {}
+  },
+  "120363407001791606@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "120363427612333459@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "120363426831300658@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "20479242948662@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  },
+  "80595782770709@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "╭─ 💬 Bienvenido/a ─╮\n👋 ¡Hey! @usuario, qué bueno verte por aquí\n\nSoy Nexus ⚡ tu bot compañero\npara ayudarte, entretenerte\ny sacarte de cualquier apuro 😄\n\n💡 Escribe #menu y explora todo lo que tengo para ti\n\n╰─ Hecho para pasarla bien ─╯",
+    "despedida": false,
+    "mensajeDespedida": "╭─ 💭 Despedida ─╮\n👋 @usuario, fue un gusto tenerte por aquí\n\n✨ Cuídate y nos vemos pronto\n\n╰─ Nexus siempre estará aquí ─╯",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "eventosHabilitados": true,
+    "anunciosNivel": true
+  }
+}

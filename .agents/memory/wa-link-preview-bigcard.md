@@ -1,0 +1,19 @@
+---
+name: WhatsApp big-card link previews
+description: How WhatsApp actually decides whether to render a large image for a link preview (linkPreview/extendedTextMessage), and why manual thumbnails often fail.
+---
+
+Bots like Nekos Club / Yuki-Bot get a large image "card" for `#menu`-style messages not through any special Baileys flag or protobuf trick, but because the `canonical-url` in their `linkPreview` points to a **real, publicly fetchable page** whose Open Graph `og:image` genuinely matches the served content.
+
+**Why:** WhatsApp (either the linked phone via `PeerDataOperationRequestType.GENERATE_LINK_PREVIEW`, or Baileys' own `link-preview-js` fallback in `getUrlInfo`) fetches the URL itself and derives the preview from the real page metadata. It does not fully trust a locally fabricated `jpegThumbnail`/`highQualityThumbnail` attached to a URL whose real content doesn't match — the client/phone-generated preview can override or ignore a spoofed one.
+
+Separately: `https://whatsapp.com/channel/...` links get **native channel UI** in the WhatsApp client (shows "Reenviado · <canal>" / "Ver canal" when combined with `contextInfo.isForwarded` + `forwardedNewsletterMessageInfo`), which always renders the channel's own small icon and ignores any custom `linkPreview` image — so a whatsapp.com/channel URL can never show a big custom banner, regardless of thumbnail quality/size.
+
+**How to apply:** To get a real big-card preview, host your own lightweight page (e.g. an extra route on the existing HTTP server) that serves proper `og:title`/`og:description`/`og:image` meta tags pointing to a real reachable image URL, then pass that page's URL to `getUrlInfo()` (Baileys export) with `{ uploadImage: sock.waUploadToServer }` to build the `linkPreview` object — don't hand-roll the thumbnail/dimensions yourself, and don't use a whatsapp.com/channel link as the preview's canonical URL. Reference implementation: `index.js` routes `/menu-preview` + `/menu-banner.jpg`, consumed from `src/menu.js` `enviarMenu()`.
+
+**Confirmed working recipe (2026-07-09):**
+1. `uploadImage: sock.waUploadToServer` is required in `getUrlInfo()` — without it, Baileys never sets `thumbnailWidth`/`thumbnailHeight`/`mediaKey` on the `extendedTextMessage` (see `generateWAMessageContent` in Baileys `Utils/messages.js`: those fields are only copied from `urlInfo.highQualityThumbnail`, which only exists via the `uploadImage` path), and WhatsApp always renders the small icon-style card without them, regardless of `jpegThumbnail` quality.
+2. The message text must literally contain the preview URL substring (it becomes `linkPreview['matched-text']`), or WhatsApp anchors no card at all.
+3. **Any `whatsapp.com/...` URL present anywhere in the same message text (e.g. an official-channel link) forces WhatsApp's native `whatsapp.com` handling and silently downgrades/replaces the custom big-card preview** — even if that URL isn't the `matched-text`/canonical URL. Fix: obfuscate/hide that other link (e.g. insert zero-width spaces into it) in the specific message that carries the image linkPreview; keep it clickable elsewhere.
+4. Do NOT also set `contextInfo.isForwarded` + `forwardedNewsletterMessageInfo` on the same message — that produces the native "Reenviado · Ver canal" UI, which likewise fully replaces the custom image card.
+5. **Tested and confirmed (2026-07-09): the preview URL must remain visibly present in the message text.** Tried removing it from the displayed text while keeping it only as `linkPreview`'s internal `matched-text` (relying on the proto's embedded thumbnail/title/description fields) — the big card silently stopped appearing (fell back to a small "Leer más"-truncated plain-text block). There is no known way to hide/obfuscate this specific URL and keep the big card; it must stay as plain visible text (unlike the whatsapp.com channel link, which CAN be hidden with zero-width spaces since it isn't the matched-text).

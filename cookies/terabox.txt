@@ -1,0 +1,3 @@
+# Netscape HTTP Cookie File
+# Pega aquí la cookie de sesión de Terabox (la cookie "ndus" es la clave)
+# para habilitar el comando #terabox. Sin esto, #terabox no funcionará.

@@ -1,0 +1,14 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "QrW0E4mOS5i4SE_5ZpFXE"
+uri = "file://AUDITORIA_NEXUS_BOT.md"
+type = "text"
+title = "Auditoría Técnica con Evidencia — Nexus Bot"
+
+[[outputs]]
+id = "V0o7kDK2P8KbFPpmlqC8l"
+uri = "file://ROADMAP_REMEDIACION.md"
+type = "text"
+title = "Roadmap de Remediación — Nexus Bot"

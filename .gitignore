@@ -1,0 +1,19 @@
+node_modules
+auth_info
+.bot.pid
+.env
+logs/
+
+# Backups generados automáticamente (pueden ser grandes)
+data/backups/
+
+# Fotos de clanes subidas por usuarios
+data/clan_fotos/
+
+# Archivos técnicos/tokens — no subir nunca
+data/errors.log
+data/lid_map.json
+data/pinterest_token.json
+
+# Cookies: se incluyen en el repo para poder restaurarlas en despliegues.
+# ⚠️  Usa solo repos PRIVADOS — los .txt contienen tokens de sesión activos.
