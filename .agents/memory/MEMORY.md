@@ -1,0 +1,13 @@
+- [Gacha gate architecture](gacha-gate.md) — gacha commands route via index.js separately; gate checks must mirror manejarMensaje exactly.
+- [Trade consent flow](trade-consent.md) — #trade is a 2-step flow; pendingTrades Map in personajes.js; new commands added to index.js comandosPersonajes list.
+- [Mencionados normalization](mencionados-normalization.md) — ctxInfoMsg.participant must strip :N@ suffix and run through resolverJid() to avoid duplicate JID profiles.
+- [Clan approval system](clan-approval.md) — clans default to closed (solicitudes array); clan.abierto===true enables instant join; new exported functions in clanes.js.
+- [YouTube EJS solver & format fix](yt-ejs-fix.md) — yt-dlp 2026+ needs EJS solver + permissive -f flag for --print calls on bot-blocked IPs.
+- [Phase 1 remediation decisions](phase1-remediation.md) — DB flush pattern, SUPER_OWNER env var, jackpot persistence, dead deps removed.
+- [Gacha pool query & selection rules](gacha-pool-rules.md) — _normTag must preserve parens; queries ordered most→least specific; pools[0] wins, not most-images.
+- [WhatsApp big-card link previews](wa-link-preview-bigcard.md) — WA/phone fetches the real URL's og:image; fake local thumbnails never render large, and wa.me/channel links get native UI that ignores custom previews.
+- [Sub-bots architecture](subbots-architecture.md) — per-chat state (chatHabilitado, botActivo) is a single shared JSON, so every socket (main + sub-bots) in a group shares one on/off switch; sub-bot self-activation and stats build on that constraint.
+- [Nexus-Bot pairing code expiry](nexus-bot-linking.md) — "Sesión cerrada definitivamente" after import is expired pairing code, not a bug; delete auth_info/ and restart.
+- [Nexus-Bot downloader conventions](nexus-bot-downloaders.md) — new #cmd downloaders must follow the cookies/ + HEAVY_CMDS + menu.js '> ' pattern; Terabox needs an owner-supplied session cookie, Mega/GitHub don't.
+- [Nexus-Bot text-sticker rendering](nexus-bot-text-stickers.md) — @napi-rs/canvas + DejaVu Sans + Noto Color Emoji for #brat*/#ttp/#attp/#qc; find nix font paths via db.sqlite, not `find`.
+- [Nexus-Bot switch-case collisions](nexus-bot-switch-case-collisions.md) — duplicate `case 'x':` labels in handler.js's big switch silently shadow the later block; grep before adding aliases.

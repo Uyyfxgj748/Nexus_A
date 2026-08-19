@@ -1,0 +1,34 @@
+{pkgs}: {
+  deps = [
+    pkgs.noto-fonts-color-emoji
+    pkgs.imagemagick
+    pkgs.ffmpeg
+    pkgs.python3
+    pkgs.yt-dlp
+    pkgs.mesa
+    pkgs.xorg.libXau
+    pkgs.xorg.libXScrnSaver
+    pkgs.xorg.libxcb
+    pkgs.nspr
+    pkgs.expat
+    pkgs.dbus
+    pkgs.xorg.libXtst
+    pkgs.xorg.libXrender
+    pkgs.xorg.libXi
+    pkgs.xorg.libXfixes
+    pkgs.xorg.libXext
+    pkgs.xorg.libXcursor
+    pkgs.xorg.libX11
+    pkgs.gtk3
+    pkgs.glib
+    pkgs.alsa-lib
+    pkgs.pango
+    pkgs.xorg.libXrandr
+    pkgs.xorg.libXdamage
+    pkgs.xorg.libXcomposite
+    pkgs.cups
+    pkgs.atk
+    pkgs.nss
+    pkgs.chromium
+  ];
+}
